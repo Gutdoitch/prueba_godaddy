@@ -1,0 +1,75 @@
+<?php
+/**
+ * Plugin Name: Easy Digital Downloads - Amazon S3
+ * Plugin URI: http://easydigitaldownloads.com/downloads/amazon-s3/
+ * Description: Amazon S3 integration with EDD.  Allows you to upload or download directly from your S3 bucket. Configure on Settings > Extensions tab.
+ * Version: 2.4.1
+ * Requires PHP: 7.4
+ * Requires at least: 5.0
+ * Author: Easy Digital Downloads
+ * Author URI: https://easydigitaldownloads.com
+ * Text Domain: edd_s3
+ * Domain Path: languages
+ *
+ * @package  EDD_Amazon_S3
+ * @category Core
+ * @author   Easy Digital Downloads
+ */
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+define( 'EDD_AS3_VERSION', '2.4.1' );
+define( 'EDD_AS3_FILE_PATH', __DIR__ );
+define( 'EDD_AS3_DIR_NAME', basename( EDD_AS3_FILE_PATH ) );
+define( 'EDD_AS3_FOLDER', dirname( plugin_basename( __FILE__ ) ) );
+define( 'EDD_AS3_URL', plugins_url( '', __FILE__ ) );
+define( 'EDD_AS3_DIR', plugin_dir_path( __FILE__ ) );
+define( 'EDD_AS3_SL_PRODUCT_NAME', 'Amazon S3' );
+define( 'EDD_AS3_PLUGIN_FILE', __FILE__ );
+
+/**
+ * The main function responsible for returning the one true EDD_Amazon_s3
+ * Instance to functions everywhere.
+ *
+ * Use this function like you would a global variable, except without needing
+ * to declare the global.
+ *
+ * Example: <?php $edd_amazon_s3 = edd_amazon_s3(); ?>
+ *
+ * @since  2.3
+ * @return object|null The one true EDD_Amazon_S3 Instance.
+ */
+function edd_amazon_s3() {
+
+	// Fix plugin conflict with BackupBuddy
+	if ( wp_doing_cron() && ( did_action( 'backupbuddy_cron' ) || has_action( 'backupbuddy_cron' ) || doing_action( 'backupbuddy_cron' ) ) ) {
+		return;
+	}
+
+	include EDD_AS3_DIR . 'class-edd-amazon-s3.php';
+
+	return EDD_Amazon_S3::get_instance();
+}
+
+require_once __DIR__ . '/vendor/autoload.php';
+\EDD\ExtensionUtils\v1\ExtensionLoader::loadOrQuit(
+	__FILE__,
+	'edd_amazon_s3',
+	array(
+		'php'                    => '7.4',
+		'easy-digital-downloads' => '3.0',
+		'wp'                     => '5.0',
+	)
+);
+
+/**
+ * Display an error notice if the PHP version is lower than 5.3.
+ *
+ * @return void
+ */
+function edd_amazon_s3_php_version_notice() {
+	printf( '<div class="error"><p>' . __( 'Easy Digital Downloads - Amazon S3 requires PHP version 5.5.0 or higher. Your server is running PHP version %s. Please contact your hosting company to upgrade your site to 5.5.0 or later.', 'edd_s3' ) . '</p></div>', PHP_VERSION );
+}

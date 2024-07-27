@@ -1,0 +1,67 @@
+/**
+ * 04. Widget
+ */
+.mysf-widgets{
+
+  > .mysf-field{
+    position: relative;
+    top: -1px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 12px 15px;
+
+    .mysf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+
+    .mysf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .mysf-field-text input{
+    width: 100%;
+  }
+
+  .mysf-field-notice .mysf-notice{
+    padding: 15px;
+  }
+}
+
+.control-section{
+
+  .mysf-widgets{
+
+    > .mysf-field{
+      margin-left: -10px;
+      margin-right: -10px;
+      padding: 10px 12px;
+    }
+  }
+}
+
+.wp-block{
+
+  .mysf-widgets{
+    font-size: 13px;
+
+    > .mysf-field{
+      margin-left: -10px;
+      margin-right: -10px;
+
+      .button-primary{
+        color: #fff;
+      }
+
+      > .mysf-title{
+
+        > h4{
+          font-size: 13px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+# Copyright (C) 2023 Easy Digital Downloads
+# This file is distributed under the same license as the Easy Digital Downloads - Stripe Pro Payment Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Stripe Pro Payment Gateway 3.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-stripe\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-11T17:22:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: edds\n"
+
+#. Plugin Name of the plugin
+msgid "Easy Digital Downloads - Stripe Pro Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://easydigitaldownloads.com/downloads/stripe-gateway/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds support for pre-authorized credit card payments and removes additional transaction fees."
+msgstr ""
+
+#. Author of the plugin
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://easydigitaldownloads.com"
+msgstr ""
+
+#: includes/admin/preapproval/filters.php:59
+msgid "Process"
+msgstr ""
+
+#: includes/admin/preapproval/filters.php:71
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/preapproval/filters.php:109
+msgid "Mark Preapproved"
+msgstr ""
+
+#: includes/admin/preapproval/filters.php:110
+msgid "Mark Cancelled"
+msgstr ""
+
+#: includes/admin/preapproval/functions.php:29
+msgid "The preapproved order was successfully charged."
+msgstr ""
+
+#: includes/admin/preapproval/functions.php:32
+msgid "The preapproved order failed to be charged. View order details for further details."
+msgstr ""
+
+#: includes/admin/preapproval/functions.php:35
+msgid "The preapproved order was successfully cancelled."
+msgstr ""
+
+#: includes/admin/preapproval/functions.php:109
+msgid "Preapproval cancelled"
+msgstr ""
+
+#: includes/admin/preapproval/functions.php:148
+msgid "Are you sure you want to cancel this order?"
+msgstr ""
+
+#: includes/admin/settings/preapproval.php:31
+msgid "Preapproved Payments"
+msgstr ""
+
+#: includes/admin/settings/preapproval.php:32
+msgid "Authorize payments for processing and collection at a future date."
+msgstr ""
+
+#: includes/admin/settings/preapproval.php:34
+msgid "What does checking preapprove do?"
+msgstr ""
+
+#: includes/admin/settings/preapproval.php:35
+msgid "If you choose this option, Stripe will not charge the customer right away after checkout, and the payment status will be set to preapproved in Easy Digital Downloads. You (as the admin) can then manually change the status to Complete by going to Payment History and changing the status of the payment to Complete. Once you change it to Complete, the customer will be charged. Note that most typical stores will not need this option."
+msgstr ""
+
+#: includes/gateway-filters.php:24
+msgid "Preapproved"
+msgstr ""
+
+#: includes/gateway-filters.php:25
+msgid "Preapproval Pending"
+msgstr ""
+
+#: includes/gateway-filters.php:26
+msgid "Cancelled"
+msgstr ""
+
+#: includes/preapproval.php:48
+msgid "Authorize Payment"
+msgstr ""
+
+#: includes/preapproval.php:49
+msgid "To finalize your preapproved purchase, please confirm your payment method."
+msgstr ""
+
+#: includes/preapproval.php:97
+#: includes/preapproval.php:108
+#: includes/preapproval.php:121
+#: includes/preapproval.php:155
+msgid "An error occurred, but your payment may have gone through. Please contact the site administrator."
+msgstr ""

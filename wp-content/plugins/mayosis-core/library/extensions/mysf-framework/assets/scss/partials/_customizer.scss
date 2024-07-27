@@ -1,0 +1,185 @@
+/**
+ * 05. Widget
+ */
+.control-section{
+
+  .mysf-field{
+    padding: 0;
+
+    .mysf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 6px;
+
+      h4{
+        display: block;
+        font-size: 13px;
+        line-height: 1;
+        font-weight: 600;
+        color: inherit;
+      }
+    }
+
+    .mysf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .mysf-help{
+    top: -5px;
+    right: -5px;
+  }
+
+  .mysf-field-select select{
+    width: 100%;
+  }
+
+  .mysf-field-heading{
+    color: inherit;
+    font-size: 14px;
+    line-height: 1em;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .mysf-field-subheading{
+    color: inherit;
+    font-size: 11px;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 10px 15px;
+  }
+
+  .mysf-subtitle-text{
+    margin-top: 4px;
+    font-size: 12px;
+  }
+
+  .mysf-field-submessage .mysf-submessage{
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .mysf-fieldset{
+
+    .mysf-field-submessage .mysf-submessage,
+    .mysf-field-heading,
+    .mysf-field-subheading{
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .mysf-field-date,
+  .mysf-field-datetime{
+
+    label{
+      display: block;
+    }
+
+    .mysf--to{
+      margin-top: 4px;
+      margin-left: 0;
+    }
+  }
+
+  .mysf-field-sorter{
+
+    ul li{
+      padding: 5px;
+    }
+
+    .mysf-modules{
+      float: none;
+      width: 100%;
+    }
+
+    .mysf-modules:first-child{
+      padding-right: 0;
+      padding-bottom: 15px;
+    }
+  }
+
+  .mysf-field-background{
+
+    .mysf--background-attributes{
+      flex-direction: column;
+    }
+  }
+
+  .mysf-field-spacing{
+    input{
+      width: 90px;
+    }
+  }
+
+  .mysf-field-border{
+
+    .mysf--input{
+      flex: 1 50%;
+    }
+
+    input,
+    select{
+      width: 100%;
+    }
+  }
+
+  .mysf-field-spinner{
+    input{
+      width: 50px;
+    }
+  }
+
+  .mysf-field-number{
+
+    .mysf--wrap{
+      width: 100%;
+    }
+  }
+
+  .mysf-field-backup{
+
+    .mysf-export-data{
+      display: none;
+    }
+  }
+
+  .mysf-field-fieldset{
+
+    .mysf-fieldset-content{
+      border-color: #e5e5e5;
+    }
+  }
+
+  .mysf-tabbed-content,
+  .mysf-sortable-content,
+  .mysf-repeater-content,
+  .mysf-fieldset-content,
+  .mysf-cloneable-content,
+  .mysf-accordion-content{
+
+    > .mysf-field{
+      padding: 10px;
+
+      .mysf-title{
+        margin-bottom: 5px;
+      }
+
+      h4{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .mysf-depend-hidden.mysf-depend-on{
+    display: none !important;
+  }
+
+  .mysf-depend-visible.mysf-depend-on{
+    border-top: 0 !important;
+  }
+}

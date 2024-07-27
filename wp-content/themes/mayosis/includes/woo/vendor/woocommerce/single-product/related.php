@@ -1,0 +1,70 @@
+<?php
+/**
+ * Related Products
+ *
+ * This template can be overridden by copying it to yourtheme/woocommerce/single-product/related.php.
+ *
+ * HOWEVER, on occasion WooCommerce will need to update template files and you
+ * (the theme developer) will need to copy the new files to your theme to
+ * maintain compatibility. We try to do this as little as possible, but it does
+ * happen. When this occurs the version of the template file will be bumped and
+ * the readme will list any important changes.
+ *
+ * @see         https://docs.woocommerce.com/document/template-structure/
+ * @package     WooCommerce\Templates
+ * @version     3.9.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+if ( $related_products ) : 
+$productgridsystem= get_theme_mod( 'woos_related_tpr_tyoe','default' );
+$productmascol= get_theme_mod( 'product_masonry_column','3' );
+$pagination= get_theme_mod( 'product_pagination_type','one' );
+
+?>
+
+	<section class="related products">
+
+		<?php
+		$heading = apply_filters( 'woocommerce_product_related_products_heading', __( 'Related products', 'mayosis' ) );
+
+		if ( $heading ) :
+			?>
+			<h2 class="mayo-woo-related-title"><?php echo esc_html( $heading ); ?></h2>
+		<?php endif; ?>
+		
+		 <?php if ($productgridsystem=='masonry'){ ?>
+     <div class="product-masonry product-masonry-gutter product-masonry-style-2 product-masonry-masonry product-masonry-full product-masonry-<?php echo esc_html($productmascol);?>-column  <?php
+                if ($pagination=='two') { ?>infinite-content-masonry<?php }?>">
+<?php }elseif ($productgridsystem=='justified'){ ?>
+<div class="gridzy justified-gallery-main">
+ <?php } else { ?>
+   	<div class="row row-cols-1 row-cols-md-4">
+ <?php } ?>
+		
+
+	    
+
+
+			<?php foreach ( $related_products as $related_product ) : ?>
+
+					<?php
+					$post_object = get_post( $related_product->get_id() );
+
+					setup_postdata( $GLOBALS['post'] =& $post_object ); // phpcs:ignore WordPress.WP.GlobalVariablesOverride.Prohibited, Squiz.PHP.DisallowMultipleAssignments.Found
+
+					wc_get_template_part( 'content', 'product-related' );
+					?>
+
+			<?php endforeach; ?>
+
+		</div>
+
+	</section>
+	<?php
+endif;
+
+wp_reset_postdata();

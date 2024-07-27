@@ -1,0 +1,277 @@
+# Copyright (C) 2023 Easy Digital Downloads
+# This file is distributed under the same license as the Easy Digital Downloads - Multi-Currency plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Multi-Currency 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-multi-currency\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-29T17:48:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: edd-multi-currency\n"
+
+#. Plugin Name of the plugin
+msgid "Easy Digital Downloads - Multi-Currency"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://easydigitaldownloads.com/downloads/multi-currency/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows your store to accept orders in multiple currencies."
+msgstr ""
+
+#. Author of the plugin
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://easydigitaldownloads.com"
+msgstr ""
+
+#: src/Admin/NoticeHandler.php:55
+msgid "Invalid notice."
+msgstr ""
+
+#: src/Admin/NoticeHandler.php:89
+#: src/Admin/NoticeHandler.php:94
+#: src/Admin/Notices/CurrencyChangeDetected.php:86
+#: src/Admin/Notices/CurrencyChangeDetected.php:90
+#: src/API/Endpoints/v1/Endpoint.php:29
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: src/Admin/NoticeHandler.php:108
+#: src/ServiceProviders/AdminNotices.php:44
+msgid "Error"
+msgstr ""
+
+#. Translators: %1$s - old currency code; %2$s - new currency code
+#: src/Admin/Notices/CurrencyChangeDetected.php:34
+msgid "<strong>Warning:</strong> EDD Multi Currency has detected an attempt to change your base shop currency from %1$s to %2$s. Changing your base currency is not advisable once you've already started taking orders. This can create reporting inaccuracies."
+msgstr ""
+
+#: src/Admin/Notices/CurrencyChangeDetected.php:42
+msgid "Stay with %s"
+msgstr ""
+
+#. Translators: %s - currency code
+#: src/Admin/Notices/CurrencyChangeDetected.php:49
+msgid "Change to %s"
+msgstr ""
+
+#: src/Admin/OrderExchangeRate.php:35
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:75
+msgid "Currency"
+msgstr ""
+
+#: src/Admin/OrderExchangeRate.php:40
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:99
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:105
+msgid "Exchange Rate"
+msgstr ""
+
+#: src/Admin/ProductPrices.php:68
+msgid "Custom Currency Prices"
+msgstr ""
+
+#: src/Admin/ProductPrices.php:99
+msgid "No currencies set yet."
+msgstr ""
+
+#: src/Admin/ProductPrices.php:145
+#: assets/build/admin.js:1
+#: assets/js/admin/CurrencyTable/Inputs/ManualCheckbox.js:30
+msgid "Auto"
+msgstr ""
+
+#: src/Admin/Settings.php:28
+msgid "Multi Currency"
+msgstr ""
+
+#: src/Admin/Settings.php:42
+msgid "Currencies"
+msgstr ""
+
+#: src/Admin/Settings.php:48
+msgid "Exchange Rate Service"
+msgstr ""
+
+#: src/Admin/Settings.php:54
+msgid "Provider"
+msgstr ""
+
+#: src/Admin/Settings.php:61
+msgid "Open Exchange Rates API Key"
+msgstr ""
+
+#: src/Admin/Settings.php:63
+msgid "You can obtain an API key from <a href=\"%s\" target=\"_blank\">openexchangerates.org</a>."
+msgstr ""
+
+#: src/Admin/Settings.php:70
+msgid "Auto Update Rates"
+msgstr ""
+
+#: src/Admin/Settings.php:77
+msgid "Update Frequency"
+msgstr ""
+
+#: src/Admin/Settings.php:105
+msgid "Once Hourly"
+msgstr ""
+
+#: src/Admin/Settings.php:106
+msgid "Twice Daily"
+msgstr ""
+
+#: src/Admin/Settings.php:107
+msgid "Once Daily"
+msgstr ""
+
+#: src/Admin/Settings.php:108
+msgid "Once Weekly"
+msgstr ""
+
+#: src/Admin/Settings.php:117
+#: src/Admin/Settings.php:134
+msgid "Update Now"
+msgstr ""
+
+#. Translators: %s date the exchange rates were last updated
+#: src/Admin/Settings.php:123
+msgid "Last updated: %s"
+msgstr ""
+
+#: src/API/Endpoints/v1/Currencies.php:244
+msgid "No such currency."
+msgstr ""
+
+#: src/Observers/CurrencyObserver.php:218
+msgid "Unable to determine new currency."
+msgstr ""
+
+#: src/ServiceProviders/AssetLoader.php:77
+msgid "An error occurred."
+msgstr ""
+
+#. Translators: %1$s name of the requirement; %2$s required version; %3$s current version
+#: src/Utils/Requirements.php:186
+msgid "%1$s: minimum required %2$s (you have %3$s)"
+msgstr ""
+
+#. Translators: %1$s name of the requirement; %2$s required version
+#: src/Utils/Requirements.php:198
+msgid "<strong>Missing %1$s</strong>: minimum required %2$s"
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:27
+msgid "EDD Currency Selector"
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:29
+msgid "Allows your customers to switch the store's currency."
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:44
+msgid "Buttons"
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:46
+msgid "Displays a button for each currency."
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:49
+msgid "Dropdown"
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:51
+msgid "Displays a dropdown with all the available currencies."
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:146
+msgid "Title:"
+msgstr ""
+
+#: src/Widgets/CurrencySelector.php:159
+msgid "Widget Type:"
+msgstr ""
+
+#: templates/currency-selector-widget-buttons.php:25
+msgid "(active)"
+msgstr ""
+
+#: templates/currency-selector-widget-dropdown.php:19
+msgid "Select a currency"
+msgstr ""
+
+#: templates/currency-selector-widget-dropdown.php:33
+msgid "Set Currency"
+msgstr ""
+
+#: assets/build/admin.js:1
+#: assets/js/admin/utils/errors.js:4
+msgid "An unexpected error has occurred. Please try again."
+msgstr ""
+
+#: assets/build/admin.js:1
+#: assets/js/admin/ExchangeRates/index.js:42
+msgid "Please select a provider and configure your API details before updating exchange rates."
+msgstr ""
+
+#: assets/build/admin.js:1
+#: assets/js/admin/CurrencyTable/Inputs/ManualCheckbox.js:11
+msgid "Rate Updates"
+msgstr ""
+
+#: assets/build/admin.js:1
+#: assets/js/admin/CurrencyTable/Inputs/ManualCheckbox.js:20
+msgid "Manual"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:45
+msgid "(Store Currency)"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:57
+msgid "Saving"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:57
+msgid "Save"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:68
+msgid "Remove"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:118
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:124
+msgid "Rate Markup"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:136
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:141
+msgid "Gateways"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyRow.js:193
+msgid "Are you sure you want to remove this currency?"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/CurrencyTable.js:94
+msgid "Loading currencies..."
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:48
+msgid "Add New Currency"
+msgstr ""
+
+#: assets/js/admin/CurrencyTable/NewCurrencyForm.js:57
+msgid "Add New"
+msgstr ""

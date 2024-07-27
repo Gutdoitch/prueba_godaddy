@@ -1,0 +1,306 @@
+# Copyright (C) 2024 Easy Digital Downloads
+# This file is distributed under the same license as the Easy Digital Downloads - Amazon S3 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Amazon S3 2.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-amazon-s3\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-16T14:54:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: edd_s3\n"
+
+#. Plugin Name of the plugin
+msgid "Easy Digital Downloads - Amazon S3"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://easydigitaldownloads.com/downloads/amazon-s3/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Amazon S3 integration with EDD.  Allows you to upload or download directly from your S3 bucket. Configure on Settings > Extensions tab."
+msgstr ""
+
+#. Author of the plugin
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://easydigitaldownloads.com"
+msgstr ""
+
+#: class-edd-amazon-s3.php:236
+msgid "Please enter your <a href=\"%s\">Amazon S3 Access Key ID and Secret Key</a>"
+msgstr ""
+
+#: class-edd-amazon-s3.php:242
+msgid "Upload to Amazon S3"
+msgstr ""
+
+#: class-edd-amazon-s3.php:243
+msgid "Amazon S3 Library"
+msgstr ""
+
+#: class-edd-amazon-s3.php:304
+msgid "Please enter your <a href=\"%s\" target=\"_blank\">Amazon S3 API keys</a>."
+msgstr ""
+
+#: class-edd-amazon-s3.php:317
+#: class-edd-amazon-s3.php:426
+#: class-edd-amazon-s3.php:443
+#: class-edd-amazon-s3.php:718
+msgid "Error retrieving file. Please contact the site administrator."
+msgstr ""
+
+#: class-edd-amazon-s3.php:327
+msgid "Select a bucket:"
+msgstr ""
+
+#: class-edd-amazon-s3.php:337
+msgid "Select file:"
+msgstr ""
+
+#: class-edd-amazon-s3.php:343
+msgid "Upload to S3"
+msgstr ""
+
+#. translators: %1$s: opening anchor tag, %2$s: singular download label, %3$s: closing anchor tag
+#: class-edd-amazon-s3.php:356
+msgid "Success! %1$sInsert uploaded file into %2$s%3$s."
+msgstr ""
+
+#: class-edd-amazon-s3.php:405
+msgid "Please enter your <a href=\"%s\" target=\"blank\">Amazon S3 API keys</a>."
+msgstr ""
+
+#: class-edd-amazon-s3.php:469
+msgid "Select a Bucket"
+msgstr ""
+
+#: class-edd-amazon-s3.php:475
+msgid "Bucket Name"
+msgstr ""
+
+#: class-edd-amazon-s3.php:476
+#: class-edd-amazon-s3.php:507
+msgid "Owner"
+msgstr ""
+
+#: class-edd-amazon-s3.php:477
+#: class-edd-amazon-s3.php:508
+msgid "Actions"
+msgstr ""
+
+#: class-edd-amazon-s3.php:487
+msgid "Browse"
+msgstr ""
+
+#: class-edd-amazon-s3.php:499
+msgid "Go Back"
+msgstr ""
+
+#: class-edd-amazon-s3.php:504
+msgid "File Name"
+msgstr ""
+
+#: class-edd-amazon-s3.php:505
+msgid "Size"
+msgstr ""
+
+#: class-edd-amazon-s3.php:506
+msgid "Last Modified"
+msgstr ""
+
+#: class-edd-amazon-s3.php:546
+msgid "Use File"
+msgstr ""
+
+#: class-edd-amazon-s3.php:556
+msgid "No files have been uploaded to Amazon S3 yet. Upload one now!"
+msgstr ""
+
+#: class-edd-amazon-s3.php:573
+msgid "Start Over"
+msgstr ""
+
+#: class-edd-amazon-s3.php:589
+msgid "View More"
+msgstr ""
+
+#: class-edd-amazon-s3.php:674
+msgid "N/A"
+msgstr ""
+
+#: class-edd-amazon-s3.php:769
+msgid "You do not have permission to upload files to S3"
+msgstr ""
+
+#: class-edd-amazon-s3.php:773
+msgid "Please select a file to upload"
+msgstr ""
+
+#: class-edd-amazon-s3.php:773
+#: class-edd-amazon-s3.php:796
+msgid "Error"
+msgstr ""
+
+#: class-edd-amazon-s3.php:796
+msgid "Something went wrong during the upload process"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1057
+msgid "Amazon S3"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1076
+msgid "Amazon S3 Access Key ID"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1077
+msgid "Enter your IAM user&#39;s Access Key ID. See our <a href=\"http://docs.easydigitaldownloads.com/article/393-amazon-s3-documentation\">documentation for assistance</a>."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1083
+msgid "Amazon S3 Secret Key"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1084
+msgid "Enter your IAM user&#39;s Secret Key. See our <a href=\"http://docs.easydigitaldownloads.com/article/393-amazon-s3-documentation\">documentation for assistance</a>."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1090
+msgid "Amazon S3 Default Bucket"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1095
+msgid "Amazon S3 Endpoint"
+msgstr ""
+
+#. Translators: %1$s - region name in <code> tags; %2$s - fully formed endpoint URL in <code> tags
+#: class-edd-amazon-s3.php:1098
+msgid "Set the endpoint you wish to use. For example, if you want to use the %1$s region, you would enter: %2$s Leave blank if you do not know what this is for."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1107
+msgid "Link Validity Time"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1108
+msgid "Amazon S3 links will expire after the entered number of minutes."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1117
+msgid "Folder Name"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1118
+msgid "Folder name used when uploading to S3 from FES."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1157
+msgid "Refresh buckets"
+msgstr ""
+
+#. translators: 1. opening anchor tag; do not translate; 2. closing anchor tag; do not translate
+#: class-edd-amazon-s3.php:1167
+msgid "To create new buckets, go to your %1$sS3 Console%2$s (you must be logged in to access the console).  Your buckets will be listed on the left."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1186
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1190
+msgid "Nonce verification failed."
+msgstr ""
+
+#: class-edd-amazon-s3.php:1340
+msgid "AWS Error:"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1384
+msgid "Not connected to S3"
+msgstr ""
+
+#: class-edd-amazon-s3.php:1388
+msgid "No default bucket"
+msgstr ""
+
+#: edd_s3.php:74
+msgid "Easy Digital Downloads - Amazon S3 requires PHP version 5.5.0 or higher. Your server is running PHP version %s. Please contact your hosting company to upgrade your site to 5.5.0 or later."
+msgstr ""
+
+#: includes/class-fes-field.php:100
+msgctxt "FES Field title translation"
+msgid "Amazon S3 Upload"
+msgstr ""
+
+#: includes/class-fes-field.php:155
+#: includes/class-fes-field.php:249
+msgid "File URL"
+msgstr ""
+
+#: includes/class-fes-field.php:156
+#: includes/class-fes-field.php:169
+#: includes/class-fes-field.php:252
+msgid "Download File"
+msgstr ""
+
+#: includes/class-fes-field.php:164
+#: includes/class-fes-field.php:262
+msgid "http://"
+msgstr ""
+
+#: includes/class-fes-field.php:167
+#: includes/class-fes-field.php:265
+msgid "Choose file"
+msgstr ""
+
+#: includes/class-fes-field.php:167
+#: includes/class-fes-field.php:265
+msgid "Insert file URL"
+msgstr ""
+
+#: includes/class-fes-field.php:173
+#: includes/class-fes-field.php:268
+msgid "&times;"
+msgstr ""
+
+#: includes/class-fes-field.php:183
+#: includes/class-fes-field.php:278
+msgid "Add File"
+msgstr ""
+
+#: includes/class-fes-field.php:326
+msgid "Pick which file types to allow. Leave empty for all types."
+msgstr ""
+
+#: includes/class-fes-field.php:331
+msgid "Type to search all file types"
+msgstr ""
+
+#: includes/class-fes-field.php:373
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: includes/class-fes-field.php:377
+msgid "Files must be uploaded through the upload form."
+msgstr ""
+
+#: includes/class-fes-field.php:382
+#: includes/class-fes-field.php:385
+msgid "Please fill out this field."
+msgstr ""
+
+#: includes/class-fes-field.php:399
+msgid "Please use files with one of these extensions: %s"
+msgstr ""
+
+#: includes/class-fes-field.php:403
+msgid "Files must be uploaded through the upload form"
+msgstr ""

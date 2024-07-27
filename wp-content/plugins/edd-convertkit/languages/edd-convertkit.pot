@@ -1,0 +1,120 @@
+# Copyright (C) 2022 Easy Digital Downloads
+# This file is distributed under the same license as the Easy Digital Downloads - ConvertKit plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - ConvertKit 1.0.10\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-convertkit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-20T14:54:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: edd-convertkit\n"
+
+#. Plugin Name of the plugin
+msgid "Easy Digital Downloads - ConvertKit"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://easydigitaldownloads.com/downloads/convertkit"
+msgstr ""
+
+#. Description of the plugin
+msgid "Subscribe your customers to ConvertKit forms during purchase."
+msgstr ""
+
+#. Author of the plugin
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://easydigitaldownloads.com/"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:80
+msgid "Select a form"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:156
+msgid "ConvertKit"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:169
+msgid "ConvertKit API Key"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:170
+msgid "Enter your ConvertKit API key"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:173
+msgid "API Key"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:174
+#: includes/class-edd-convertkit.php:183
+msgid "This can be found in your ConvertKit account under the Account menu"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:178
+msgid "ConvertKit API Secret"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:179
+msgid "Enter your ConvertKit API Secret"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:182
+msgid "API Secret"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:187
+msgid "Show Signup on Checkout"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:188
+msgid "Allow customers to signup for the list selected below during checkout?"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:190
+msgid "Signup on Checkout"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:191
+msgid "If enabled, a checkbox will be shown on the checkout screen allowing customers to opt-into an email subscription. If not enabled, customers will be subscribed only if one or more Forms is selected from the Edit screen of the Download product(s) being purchased."
+msgstr ""
+
+#: includes/class-edd-convertkit.php:195
+msgid "Choose a form"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:196
+msgid "Select the form you wish to subscribe buyers to. The form can also be selected on a per-product basis from the product edit screen"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:202
+msgid "Signup Checked by Default"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:203
+msgid "Should the newsletter signup checkbox shown during checkout be checked by default?"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:208
+msgid "Checkout Label"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:209
+msgid "This is the text shown next to the signup option"
+msgstr ""
+
+#: includes/class-edd-convertkit.php:234
+msgid "Select the form you wish buyers to be subscribed to when purchasing. Customers will be subscribed to this form even if they have not opted in during checkout."
+msgstr ""
+
+#: includes/class-edd-convertkit.php:241
+msgid "Add the following tags to subscribers. These tags will be applied even if the customer has not opted in during checkout."
+msgstr ""

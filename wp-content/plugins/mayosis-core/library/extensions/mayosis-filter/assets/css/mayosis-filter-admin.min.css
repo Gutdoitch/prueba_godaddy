@@ -1,0 +1,1116 @@
+.mayosis-additional-fields-selector,
+.mayosis_seo_rules-rule_h1-wrap,
+.mayosis_seo_rules-rule_meta_desc-wrap,
+.mayosis_seo_rules-rule_seo_title-wrap {
+    text-align: right;
+    position: relative;
+}
+#filters-seo-rules .inside,
+#filters-set-items .inside {
+    margin: 0;
+    padding: 0;
+}
+.mayosis-fields-table,
+.mayosis-filter-additional-fields,
+.mayosis-form-fields-table {
+    width: 100%;
+    table-layout: auto;
+    padding: 0;
+    margin: 0;
+    clear: both;
+    box-sizing: content-box;
+}
+.postbox .inside table.mayosis-fields-table td,
+.postbox .inside table.mayosis-form-fields-table td {
+    position: static;
+}
+#mayosis-filter-id-apply-button,
+.post-type-filter-seo-rule .inline-edit-status option[value="pending"],
+.post-type-filter-seo-rule .inline-edit-status option[value="private"],
+.post-type-mayosis-filter .inline-edit-status option[value="pending"],
+.post-type-mayosis-filter .inline-edit-status option[value="private"],
+.regular-text .mayosis-field-sortable-handle:before,
+.mayosis-bottom-widget-compatibility,
+.mayosis-field-apply-button-page-type-tr,
+.mayosis-field-apply-button-text-tr,
+.mayosis-field-ename-tr,
+.mayosis-field-entity-tr,
+.mayosis-field-for-variations-tr,
+.mayosis-field-hide-until-parent-tr,
+.mayosis-field-hierarchy-tr,
+.mayosis-field-path-tr,
+.mayosis-field-range-slider-tr,
+.mayosis-field-reset-button-text-tr,
+.mayosis-field-value-step-tr,
+.mayosis-filter-additional-fields,
+.mayosis-filter-body,
+.mayosis-filter-post_meta_num .mayosis-field-a-labels-tr,
+.mayosis-filter-post_meta_num .mayosis-field-collapse-tr,
+.mayosis-filter-post_meta_num .mayosis-field-exclude-tr,
+.mayosis-filter-post_meta_num .mayosis-field-hierarchy-tr,
+.mayosis-filter-post_meta_num .mayosis-field-logic-tr,
+.mayosis-filter-post_meta_num .mayosis-field-orderby-tr,
+.mayosis-filter-post_meta_num .mayosis-field-path-tr,
+.mayosis-filter-post_meta_num .mayosis-field-search-tr,
+.mayosis-filter-tax_numeric .mayosis-field-collapse-tr,
+.mayosis-filter-tax_numeric .mayosis-field-exclude-tr,
+.mayosis-filter-tax_numeric .mayosis-field-logic-tr,
+.mayosis-filter-tax_numeric .mayosis-field-orderby-tr,
+.mayosis-filter-tax_numeric .mayosis-field-path-tr,
+.mayosis-filter-tax_numeric .mayosis-field-search-tr,
+.mayosis-view-dropdown .mayosis-field-more-less-tr,
+.mayosis-view-dropdown .mayosis-field-search-tr,
+.mayosis-view-range .mayosis-field-more-less-tr,
+.mayosis-view-range .mayosis-field-search-tr {
+    display: none;
+}
+#mayosis-filter-id-apply-button.mayosis-opened,
+.mayosis-filter-body.mayosis-opened {
+    display: block;
+}
+.mayosis-additional-opened .mayosis-more-options-toggle,
+.mayosis-filter-body:hover .mayosis-more-options-toggle {
+    visibility: visible;
+}
+.mayosis-column-labels-wrapper {
+    padding: 12px 12px 0;
+}
+.mayosis-add-filter-wrapper {
+    padding: 12px;
+}
+.mayosis-filters-list {
+    padding: 0 12px;
+}
+.mayosis-custom-row {
+    display: flex;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.mayosis-custom-row li {
+    padding: 8px 12px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mayosis-column-labels .mayosis-filter-order,
+.mayosis-filter-item-labels li.mayosis-filter-order {
+    min-width: 51px;
+    text-align: center;
+}
+.mayosis-filter-item-labels li.mayosis-filter-order {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+li.mayosis-filter-entity,
+li.mayosis-filter-label,
+li.mayosis-filter-slug,
+li.mayosis-filter-view {
+    width: 24%;
+}
+.mayosis-custom-row:after,
+.mayosis-custom-row:before {
+    content: "";
+    display: block;
+    line-height: 0;
+}
+.mayosis-custom-row:after {
+    clear: both;
+}
+.mayosis-filter-item {
+    clear: both;
+    margin-bottom: 10px;
+}
+.mayosis-title-action .mayosis-action {
+    padding: 10px;
+    color: #555d66;
+    border: 0;
+    margin: 0;
+    background: 0 0;
+    cursor: pointer;
+    outline: 0;
+}
+#mayosis-filter-id-apply-button .mayosis-filter-head,
+.mayosis-title-action .mayosis-action:hover {
+    background: #fff;
+}
+.mayosis-title-action .mayosis-action .toggle-indicator {
+    color: #787c82 !important;
+}
+.mayosis-sorting-widget-shortcode {
+    background: #f1f1f1;
+}
+.mayosis-title-action .mayosis-action .toggle-indicator:before {
+    padding: 1px 2px 1px 0;
+    border-radius: 50%;
+    content: "\f140";
+    font: 20px/1 dashicons;
+    speak: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none;
+}
+.mayosis-title-action .mayosis-action:focus .toggle-indicator:before {
+    box-shadow: 0 0 0 1px #5b9dd9, 0 0 2px 1px rgba(30, 140, 190, 0.8);
+}
+.mayosis-opened .mayosis-title-action .mayosis-action .toggle-indicator:before {
+    content: "\f142";
+}
+.mayosis-filter-item-labels li {
+    padding: 12px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.mayosis-filter-head {
+    font-size: 13px;
+    background: #f9f9f9;
+    border: 1px solid #e3e3e3;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+#mayosis-filters-list[data-posttype="product"] .mayosis-filter-post_meta .mayosis-field-for-variations-tr,
+#mayosis-filters-list[data-posttype="product"] .mayosis-filter-post_meta_exists .mayosis-field-for-variations-tr,
+#mayosis-filters-list[data-posttype="product"] .mayosis-filter-post_meta_num .mayosis-field-for-variations-tr,
+#mayosis-filters-list[data-posttype="product"] .mayosis-filter-taxonomy.taxonomy-product-attribute .mayosis-field-for-variations-tr,
+.mayosis-bottom-widget-compatibility.mayosis-opened,
+.mayosis-field-apply-button-page-type-tr.mayosis-opened,
+.mayosis-field-apply-button-text-tr.mayosis-opened,
+.mayosis-field-hide-until-parent-tr.mayosis-opened,
+.mayosis-field-reset-button-text-tr.mayosis-opened,
+.mayosis-filter-post_meta .mayosis-field-ename-tr,
+.mayosis-filter-post_meta_exists .mayosis-field-ename-tr,
+.mayosis-filter-post_meta_num .mayosis-field-ename-tr,
+.mayosis-filter-post_meta_num .mayosis-field-range-slider-tr,
+.mayosis-filter-post_meta_num .mayosis-field-value-step-tr,
+.mayosis-filter-tax_numeric .mayosis-field-ename-tr,
+.mayosis-filter-tax_numeric .mayosis-field-range-slider-tr,
+.mayosis-filter-tax_numeric .mayosis-field-value-step-tr,
+.mayosis-filter-taxonomy.taxonomy-hierarchical.mayosis-view-checkboxes .mayosis-field-hierarchy-tr,
+.mayosis-new-filter-item .mayosis-field-entity-tr {
+    display: table-row;
+}
+#mayosis-filter-id-apply-button li.mayosis-filter-label {
+    width: auto;
+    min-height: 42px;
+}
+.mayosis-button-style {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 10px;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    color: #2271b1;
+    border: 1px dashed #2271b1;
+    background: #f6f7f7;
+    vertical-align: top;
+}
+#mayosis-filter-id-apply-button .mayosis-filter-title-widbar {
+    margin-right: 0;
+}
+.mayosis-filter-item.ui-sortable-helper .mayosis-filter-head {
+    background: #fbfbfb;
+}
+.mayosis-filter-head:hover {
+    border-color: #cbcbcb;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+.mayosis-title-action {
+    float: right;
+    position: relative;
+}
+.mayosis-column-labels {
+    font-weight: 600;
+}
+.mayosis-column-labels,
+.mayosis-filter-title-widbar {
+    margin-right: 60px;
+}
+.mayosis-no-filters {
+    display: none;
+    padding: 15px;
+    border-top: 1px solid #e1e1e1;
+}
+.mayosis-add-filter-wrapper {
+    background: #f5f5f5;
+    border-top: 1px solid #ddd;
+}
+.mayosis-add-filter-wrapper:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+.mayosis-add-filter-div {
+    float: right;
+}
+label.mayosis-filter-label {
+    display: block;
+    font-weight: 700;
+    margin: 0 0 3px;
+    padding: 0;
+}
+.postbox .inside table.mayosis-fields-table td.mayosis-filter-label-td,
+.postbox .inside table.mayosis-form-fields-table td.mayosis-filter-label-td,
+.mayosis-filter-label-td {
+    padding: 15px 30px 15px 12px;
+    margin: 0;
+    background: #f9f9f9;
+    width: 20%;
+    border-color: #ededed;
+    border-width: 1px 0 0 1px;
+    box-sizing: border-box;
+    position: relative;
+    min-width: 160px;
+}
+.mayosis-remove-filter-wrapper .mayosis-filter-label-td {
+    background: 0 0;
+}
+.mayosis-filter-field-td {
+    padding: 15px 12px;
+    margin: 0;
+    border-left-color: #e1e1e1;
+    box-sizing: border-box;
+}
+.mayosis-filter-intersection-tr > .mayosis-filter-field-td {
+    padding-left: 0;
+    padding-right: 0;
+}
+.mayosis-first-row .mayosis-filter-field-td {
+    padding-top: 0;
+    vertical-align: top;
+}
+.mayosis-filter-field-td input[type="email"],
+.mayosis-filter-field-td input[type="number"],
+.mayosis-filter-field-td input[type="password"],
+.mayosis-filter-field-td input[type="search"],
+.mayosis-filter-field-td input[type="text"],
+.mayosis-filter-field-td input[type="url"],
+.mayosis-filter-field-td select,
+.mayosis-filter-field-td textarea {
+    width: 100%;
+    padding: 3px 5px;
+    resize: none;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.mayosis-wp-entity-label-wrapper {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.mayosis-filters-seo-rules-wrapper .mayosis-filter-field-td label {
+    position: relative;
+    bottom: 5px;
+}
+.mayosis-location-label,
+.mayosis-wp-entity-label,
+label[for="mayosis_seo_rules-wp_entity"] {
+    font-weight: 700;
+    position: relative;
+    bottom: 5px;
+}
+#mayosis-intersections-table .mayosis-filter-field-td {
+    padding-bottom: 0;
+    position: relative;
+}
+.mayosis-filter-label-td .mayosis-field-description {
+    font-style: normal;
+    font-size: 12px;
+    color: #666;
+    margin: 0;
+}
+.mayosis-belongs-not,
+.mayosis-belongs-not input[type="color"],
+.mayosis-belongs-not input[type="date"],
+.mayosis-belongs-not input[type="datetime-local"],
+.mayosis-belongs-not input[type="datetime"],
+.mayosis-belongs-not input[type="email"],
+.mayosis-belongs-not input[type="month"],
+.mayosis-belongs-not input[type="number"],
+.mayosis-belongs-not input[type="password"],
+.mayosis-belongs-not input[type="search"],
+.mayosis-belongs-not input[type="tel"],
+.mayosis-belongs-not input[type="text"],
+.mayosis-belongs-not input[type="time"],
+.mayosis-belongs-not input[type="url"],
+.mayosis-belongs-not input[type="week"],
+.mayosis-belongs-not select,
+.mayosis-belongs-not textarea,
+.mayosis-inactive-settings-field {
+    color: #b7b7b7;
+}
+.post-type-mayosis-filter .select2-container--default .select2-results__option,
+.mayosis-field-notice p,
+.mayosis-remove-filter-wrapper,
+.mayosis-seo-vars-list {
+    margin: 0;
+}
+.mayosis-remove-filter-wrapper .spinner {
+    float: none;
+}
+.mayosis-filter-delete-controls-td {
+    min-width: 160px;
+}
+.wp-core-ui .mayosis-filter-delete {
+    color: #a00;
+    border-color: #a00;
+    background: 0 0;
+    margin-right: 1em;
+    outline: 0;
+}
+.wp-core-ui .mayosis-filter-delete.active,
+.wp-core-ui .mayosis-filter-delete.focus,
+.wp-core-ui .mayosis-filter-delete.hover,
+.wp-core-ui .mayosis-filter-delete:active,
+.wp-core-ui .mayosis-filter-delete:focus,
+.wp-core-ui .mayosis-filter-delete:hover {
+    color: #fff;
+    background: #a00;
+    border-color: #a00;
+}
+.wp-core-ui .mayosis-filter-delete.focus,
+.wp-core-ui .mayosis-filter-delete:focus {
+    box-shadow: 0 0 0 1px #a00;
+}
+.mayosis-filter-delete-wrapper {
+    visibility: hidden;
+    min-height: 30px;
+}
+.mayosis-additional-fields-selector {
+    padding-right: 12px;
+    top: 20px;
+}
+.mayosis-additional-fields-selector a,
+.mayosis-license-status a {
+    font-weight: 700;
+}
+.mayosis-filter-field-shadow,
+.mayosis-filter-item-shadow {
+    height: 44px;
+    clear: both;
+    border: 1px dashed #b4b9be;
+    margin: 0 auto 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.mayosis-filter-field-shadow {
+    height: 60px;
+}
+.mayosis-filter-item .mayosis-filter-order:hover {
+    cursor: move;
+    background: #fff;
+}
+.mayosis-field-rule-meta-desc {
+    min-height: 65px;
+}
+.mayosis-field-exclude-tr .mayosis-field-wrap,
+.mayosis-intersection-fields-wrapper,
+.mayosis_set_fields-apply_button_post_name-wrap,
+.mayosis_set_fields-post_name-wrap,
+.mayosis_set_fields-wp_filter_query-wrap {
+    position: relative;
+}
+.mayosis-field-exclude-tr .mayosis-field-wrap .spinner,
+.mayosis-intersection-fields-wrapper .spinner,
+.mayosis_set_fields-apply_button_post_name-wrap .spinner,
+.mayosis_set_fields-post_name-wrap .spinner,
+.mayosis_set_fields-wp_filter_query-wrap .spinner {
+    position: absolute;
+    right: calc(50% - 10px);
+    bottom: calc(50% - 10px);
+    z-index: 100;
+    opacity: 0.9;
+}
+.mayosis_set_fields-apply_button_post_name-wrap .spinner,
+.mayosis_set_fields-post_name-wrap .spinner {
+    bottom: calc(50% - 19px);
+}
+.mayosis-field-exclude-tr .mayosis-field-wrap .spinner.is-active + .mayosis-after-spinner-container,
+.mayosis-intersection-fields-wrapper .spinner.is-active + .mayosis-form-fields-table,
+.mayosis_set_fields-apply_button_post_name-wrap .spinner.is-active + #mayosis-field-apply-button-location-container,
+.mayosis_set_fields-post_name-wrap .spinner.is-active + #mayosis-field-location-container,
+.mayosis_set_fields-wp_filter_query-wrap .spinner.is-active + #mayosis-field-wp-query-container {
+    opacity: 0.3;
+}
+.mayosis-no-seo-filters-message {
+    display: block;
+    line-height: 30px;
+}
+.mayosis_seo_rules-rule_h1-wrap span,
+.mayosis_seo_rules-rule_meta_desc-wrap span,
+.mayosis_seo_rules-rule_seo_title-wrap span {
+    display: inline-block;
+    margin-bottom: 7px;
+}
+.mayosis-vars-container {
+    position: absolute;
+    top: 52px;
+    text-align: left;
+    background: #fff;
+    right: 0;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 0 40px;
+    border: 1px solid #ddd;
+    padding: 3px 0;
+    box-sizing: border-box;
+    z-index: 100;
+    display: none;
+    border-radius: 4px;
+}
+.mayosis-vars-container ul li {
+    padding: 10px 15px;
+    min-width: 120px;
+    margin: 0;
+}
+.mayosis-vars-container ul li:hover {
+    cursor: pointer;
+    background: #007cba;
+    color: #fff;
+}
+.mayosis-filter-number {
+    float: left;
+}
+.post-type-filter-seo-rule #titlediv #title[readonly="readonly"] {
+    background-color: #eee;
+}
+.license-notice,
+.mayosis-error {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    margin: 40px 15px 2px 0;
+    padding: 1px 12px;
+    border-left-color: #dc3232;
+    position: relative;
+}
+.license-notice {
+    border-left-color: #dba617;
+    display: flex;
+    justify-content: left;
+}
+.license-notice.license-locked {
+    border-left-color: #dc3232;
+}
+.mayosis-error p {
+    margin: 0.5em 0;
+    padding: 2px;
+}
+.mayosis-filters-seo-rules-wrapper hr {
+    margin: 15px 0;
+}
+.mayosis-container-handle-wrapper {
+    position: relative;
+    padding-left: 25px;
+}
+.pro-version.mayosis-sortable-row .mayosis-order-sortable-handle-icon:hover {
+    cursor: move;
+}
+.mayosis-sortable-table {
+    max-width: 668px;
+}
+tr.mayosis-sortable-row.ui-sortable-helper {
+    background: #f9f9f9;
+}
+.mayosis-field-exclude-wrap {
+    width: 78%;
+    margin-right: 2%;
+}
+.mayosis-field-include-wrap {
+    width: 20%;
+    display: flex;
+}
+.mayosis-field-include {
+    min-width: 90px;
+}
+.mayosis-field-include-wrap label.mayosis-filter-label {
+    display: inline;
+}
+.mayosis-field-notice {
+    position: relative;
+    display: block;
+    margin: 5px 0 15px;
+    padding: 3px 12px;
+}
+.mayosis-filter-tr .select2-search.select2-search--inline,
+.mayosis-form-table.form-table .select2-search.select2-search--inline,
+.mayosis-help-tip,
+.mayosis-sortable-row.regular-text .mayosis-field-sortable-handle:before {
+    display: inline-block;
+}
+.mayosis-field-notice-error {
+    background: #ffe6e6;
+    color: #c00;
+}
+.free-version .mayosis-field-sortable-handle {
+    color: #a7a7a7;
+    cursor: pointer;
+}
+.pro-version .mayosis-field-sortable-handle {
+    color: inherit;
+    cursor: inherit;
+}
+input[disabled="disabled"] + .mayosis-checkbox-placeholder {
+    color: #a7a7a7;
+    margin-left: 5px;
+}
+.mayosis-help-tip {
+    color: #929292;
+    font-style: normal;
+    height: 16px;
+    line-height: 16px;
+    position: relative;
+    vertical-align: middle;
+    width: 16px;
+}
+.mayosis-help-tip::after {
+    font-family: Dashicons;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "";
+    cursor: help;
+}
+.comparison-table .no,
+.comparison-table .yes {
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+}
+.mayosis-form-fields-table .mayosis-help-tip {
+    font-size: 1.3em;
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: calc(50% - 8px);
+}
+.td-activate-license .mayosis-help-tip,
+.mayosis-tab .dashicons {
+    position: relative;
+    top: 5px;
+}
+.mayosis-form-fields-table .mayosis-container-handle-wrapper .mayosis-help-tip {
+    left: 0;
+}
+#tiptip_holder {
+    display: none;
+    z-index: 8675309;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#tiptip_holder.tip_top {
+    padding-bottom: 5px;
+}
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+    margin-top: -7px;
+    margin-left: -6px;
+    border-top-color: #333;
+}
+#tiptip_holder.tip_bottom {
+    padding-top: 5px;
+}
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+    margin-top: -5px;
+    margin-left: -6px;
+    border-bottom-color: #333;
+}
+#tiptip_holder.tip_right {
+    padding-left: 5px;
+}
+#tiptip_holder.tip_right #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -5px;
+    border-right-color: #333;
+}
+#tiptip_holder.tip_left {
+    padding-right: 5px;
+}
+#tiptip_holder.tip_left #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -7px;
+    border-left-color: #333;
+}
+#tiptip_content,
+.chart-tooltip,
+.wc_error_tip {
+    color: #fff;
+    font-size: 0.8em;
+    background: #333;
+    border-radius: 3px;
+    padding: 0.618em 1em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+#tiptip_content code,
+.chart-tooltip code,
+.wc_error_tip code {
+    padding: 1px;
+    background: #888;
+}
+#tiptip_arrow,
+#tiptip_arrow_inner {
+    position: absolute;
+    border: 6px solid transparent;
+    height: 0;
+    width: 0;
+}
+.mayosis-settings-post-type-label {
+    font-family: "Courier New";
+    font-weight: 400;
+}
+.mayosis-filter-field-td .select2-container .select2-selection--single,
+.mayosis-filter-field-td .select2-container--default .select2-selection--multiple {
+    width: 100%;
+    height: auto;
+    padding: 3px 5px;
+    resize: none;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.4;
+    border: 1px solid #7e8993;
+    border-radius: 3px;
+    color: #32373c;
+}
+.mayosis-filter-field-td .select2-container .select2-selection--multiple,
+.mayosis-filter-field-td .select2-container--default .select2-selection--multiple {
+    padding: 0 5px;
+    min-height: 0;
+}
+.mayosis-filter-field-td .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 24px;
+    padding-left: 0;
+    min-height: 24px;
+}
+.mayosis-filter-field-td .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 30px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice,
+.mayosis-filter-field-td .select2-selection__rendered li {
+    margin-bottom: 0;
+}
+.mayosis-filter-field-td .select2-container .select2-search--inline .select2-search__field {
+    min-height: 0;
+    width: auto !important;
+}
+#mayosis-filters-list a.mayosis-more-options-toggle {
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+}
+.mayosis-more-options-toggle.mayosis-opened:hover {
+    color: #dc3232;
+}
+.mayosis-more-options-toggle.mayosis-opened {
+    color: #a00;
+}
+.fixed .column-seo_post_type,
+.fixed .column-set_post_type {
+    width: 15%;
+}
+.fixed .column-location {
+    width: 45%;
+}
+.fixed .column-seo_post_id {
+    width: 10%;
+}
+.mayosis-form-table.form-table th {
+    width: 300px;
+}
+.mayosis-admin-toolbar {
+    margin-left: -20px;
+    padding-left: 20px;
+}
+.mayosis-admin-toolbar {
+    background: #fff;
+    border-bottom: 1px solid #ccd0d4;
+}
+.license-notice h2,
+.mayosis-admin-toolbar h2 {
+    font-size: 14px;
+    line-height: 2.57143;
+    display: inline-block;
+    padding: 5px 0;
+    margin: 0 10px 0 0;
+}
+.mayosis-license-status {
+    color: #919191;
+    font-size: 13px;
+}
+.mayosis-plugin-status {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.mayosis-registered {
+    color: green;
+}
+.mayosis-unregistered,
+.mayosis-warning {
+    color: #c00;
+}
+.license-notice h2 {
+    min-width: 165px;
+    line-height: 2;
+}
+.woocommerce-page #mayosisontent .license-notice,
+.woocommerce-page.woocommerce_page_wc-admin #wpbody-content .license-notice {
+    margin-left: 20px;
+}
+.license-notice p {
+    margin: 9px 20px 9px 0;
+}
+.license-notice a {
+    text-decoration: none;
+}
+.mayosis-admin-toolbar .mayosis-tab,
+.mayosis-admin-toolbar .mayosis-tab-divider {
+    display: inline-block;
+    line-height: 3;
+    margin: 0 5px;
+    text-decoration: none;
+}
+.mayosis-admin-toolbar > .mayosis-tab {
+    color: inherit;
+    font-size: 14px;
+    padding: 5px;
+}
+.mayosis-admin-toolbar .mayosis-tab.mayosis-get-pro {
+    line-height: 2.15384615;
+    min-height: 30px;
+}
+.mayosis-admin-toolbar .mayosis-tab.is-active {
+    border-bottom: 3px solid #0071a4;
+    padding-bottom: 2px;
+}
+.license-notice h2 img,
+.mayosis-admin-toolbar h2 img {
+    float: left;
+    margin: 8px 7px 0 0;
+}
+.license-notice h2 img {
+    margin-top: 4px;
+}
+.mayosis-admin-right {
+    float: right;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 7px 0;
+}
+.mayosis-admin-right .mayosis-tab {
+    margin: 0 10px;
+}
+.mayosis-tab .dashicons {
+    display: none;
+}
+.mayosis-tab-divider {
+    border-left: 1px solid #ccc;
+}
+.description {
+    margin: 2px 0 5px;
+    color: #646970;
+}
+.mayosis-field-required {
+    color: #929292;
+    margin-left: 3px;
+}
+.mayosis-go-pro {
+    color: #ed2390;
+    font-weight: 700;
+}
+.comparison-table {
+    border-color: #f2f2f2;
+    width: 600px;
+}
+.comparison-table td,
+.comparison-table th {
+    padding: 5px;
+    font-size: 14px;
+}
+.comparison-table .second-td,
+.comparison-table .third-td,
+.comparison-table td:nth-child(2),
+.comparison-table td:nth-child(3) {
+    text-align: center;
+}
+.comparison-table .yes {
+    background-image: url("data:image/svg+xml,%3Csvg aria-hidden='true' focusable='false' data-prefix='fas' data-icon='check-circle' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' class='svg-inline--fa fa-check-circle fa-w-16 fa-3x'%3E%3Cpath fill='%233c434a' d='M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z' class=''%3E%3C/path%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: 16px;
+    position: relative;
+}
+.mayosis-notes-table {
+    border-color: #f1f1f1;
+    border-style: solid;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-width: 1px 0 0 1px;
+    width: 100%;
+}
+.mayosis-notes-table th {
+    width: 131px;
+}
+.mayosis-notes-table td,
+.mayosis-notes-table th {
+    border-bottom: 1px solid #f1f1f1;
+    border-right: 1px solid #f1f1f1;
+    padding: 9px 12px;
+    text-align: left;
+}
+.mayosis-field-location-wrapper,
+.mayosis-filter-field-apply-button-location-td,
+.mayosis-filter-field-include-exclude-wrap,
+.mayosis-filter-field-location-td {
+    display: flex;
+    justify-content: space-between;
+}
+div.mayosis_set_fields-apply_button_page_type-wrap,
+div.mayosis_set_fields-wp_page_type-wrap {
+    width: 47%;
+}
+div.mayosis_set_fields-apply_button_post_name-wrap,
+div.mayosis_set_fields-post_name-wrap {
+    width: 51%;
+}
+a.mayosis-location-preview {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #666;
+    outline: 0;
+    border: none;
+}
+a.mayosis-location-preview:hover {
+    color: #135e96;
+}
+a.mayosis-location-preview span {
+    font-size: 18px;
+}
+.mayosis-full-width {
+    width: 100%;
+    clear: both;
+    flex-grow: 2;
+}
+#mayosis-field-apply-button-location-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+#mayosis_set_fields-post_name {
+    width: calc(100% - 25px);
+    margin-right: 5px;
+}
+.post-type-mayosis-filter .select2-container--default .select2-results__option:hover {
+    cursor: pointer;
+}
+.post-type-mayosis-filter .select2-container--default .select2-results__option[aria-selected="true"],
+.post-type-mayosis-filter .select2-container--default .select2-results__option[data-selected="true"] {
+    background-color: #f2f2f2;
+}
+.post-type-mayosis-filter .select2-container--default .select2-results__option--highlighted[aria-selected],
+.post-type-mayosis-filter .select2-container--default .select2-results__option--highlighted[data-selected] {
+    background-color: #0570e2;
+    color: #f5f5f5;
+}
+.mayosis-filter-tr .select2-container--default .select2-selection--multiple .select2-selection__choice,
+.mayosis-form-table .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    padding: 5px 5px 5px 25px;
+    margin: 5px;
+    position: relative;
+}
+.mayosis-filter-tr .select2-container--default .select2-selection--multiple .select2-selection__choice__remove,
+.mayosis-form-table .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    line-height: 1;
+    background-color: transparent;
+    border: none;
+    border-right: 1px solid #aaa;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    color: #999;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 700;
+    padding: 0 4px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.mayosis-filter-tr .select2-container .select2-selection--multiple,
+.mayosis-form-table.form-table .select2-container .select2-selection--multiple {
+    padding: 5px;
+}
+.mayosis-form-table.form-table .select2-container .select2-selection--multiple {
+    min-height: 52px;
+}
+.mayosis-filter-tr .select2-container .select2-selection--multiple .select2-selection__rendered:after,
+.mayosis-form-table.form-table .select2-container .select2-selection--multiple .select2-selection__rendered:after {
+    content: "";
+    display: block;
+    clear: both;
+    float: none;
+}
+.mayosis-filter-tr .select2-search.select2-search--inline input.select2-search__field,
+.mayosis-form-table.form-table .select2-search.select2-search--inline input.select2-search__field {
+    width: auto !important;
+}
+.mayosis-filter-sortable-handle {
+    width: 14px;
+    height: 14px;
+    font-size: 14px;
+}
+#license_key {
+    width: 75%;
+}
+a#mayosis-get-license-key {
+    margin-left: 5px;
+}
+a#mayosis-get-license-key::after {
+    content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3C!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon --%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 1000 1000' enable-background='new 0 0 1000 1000' xml:space='preserve'%3E%3Cmetadata%3E Svg Vector Icons : http://www.onlinewebfonts.com/icon %3C/metadata%3E%3Cg%3E%3Cpath d='M10,10L10,10L10,10z'/%3E%3Cpath d='M663.3,75.3L794,206L336.7,663.3l65.3,65.3l457.3-457.3L990,402V75.3H663.3z M728.7,859.3H206V336.7h261.3L598,206H75.3v784h784V467.3L728.7,598V859.3z' fill='%232271b1'/%3E%3C/g%3E%3C/svg%3E");
+    margin: 0 3px 0 5px;
+    width: 11px;
+    display: inline-block;
+}
+a#mayosis-get-license-key:hover::after {
+    content: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3C!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon --%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 1000 1000' enable-background='new 0 0 1000 1000' xml:space='preserve'%3E%3Cmetadata%3E Svg Vector Icons : http://www.onlinewebfonts.com/icon %3C/metadata%3E%3Cg%3E%3Cpath d='M10,10L10,10L10,10z'/%3E%3Cpath d='M663.3,75.3L794,206L336.7,663.3l65.3,65.3l457.3-457.3L990,402V75.3H663.3z M728.7,859.3H206V336.7h261.3L598,206H75.3v784h784V467.3L728.7,598V859.3z' fill='%230a4b78'/%3E%3C/g%3E%3C/svg%3E");
+}
+.rtl .mayosis-additional-fields-selector {
+    text-align: left;
+}
+@media screen and (max-width: 1200px) {
+    #mayosis-intersections-table .mayosis-filter-field-td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        display: block !important;
+        width: auto !important;
+        border: 0 !important;
+    }
+    .mayosis-filter-field-apply-button-location-td,
+    .mayosis-filter-field-location-td {
+        display: block;
+    }
+    div.mayosis_set_fields-apply_button_page_type-wrap,
+    div.mayosis_set_fields-apply_button_post_name-wrap,
+    div.mayosis_set_fields-post_name-wrap,
+    div.mayosis_set_fields-wp_page_type-wrap {
+        width: 100%;
+    }
+    .mayosis-field-exclude-wrap {
+        width: 73%;
+        margin-right: 2%;
+    }
+    .mayosis-field-include-wrap {
+        width: 25%;
+        display: flex;
+    }
+    .mayosis-field-include {
+        min-width: 0;
+    }
+}
+@media screen and (max-width: 850px) {
+    .mayosis-no-filters {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    .mayosis-filter-field-td:not(.mayosis-filter-delete-td),
+    .mayosis-filter-label-td:not(.mayosis-filter-delete-controls-td) {
+        display: block !important;
+        width: auto !important;
+        border: 0 !important;
+    }
+    .mayosis-filter-label-td {
+        background-color: transparent;
+        padding-bottom: 0;
+    }
+    .mayosis-additional-fields-selector {
+        position: static;
+        top: auto;
+        margin-top: 15px;
+    }
+    .mayosis-field-description br {
+        display: none;
+    }
+}
+@media screen and (max-width: 782px) {
+    .mayosis-filter-field-td .select2-container .select2-selection--multiple .select2-selection__rendered,
+    .mayosis-filter-field-td .select2-container--default.select2-container--disabled .select2-selection--multiple .select2-selection__rendered {
+        min-height: 28px;
+        line-height: 28px;
+    }
+    .mayosis-filter-field-td .select2-container--default .select2-selection--single .select2-selection__rendered {
+        min-height: 32px;
+        line-height: 32px;
+    }
+    .mayosis-filter-field-td .select2-container--default .select2-selection--single .select2-selection__arrow {
+        height: 40px;
+    }
+    .form-table.mayosis-sortable-table td,
+    .form-table.mayosis-sortable-table th {
+        display: table-cell;
+        margin-bottom: 9px;
+        padding: 15px 10px;
+        line-height: 1.3;
+        vertical-align: middle;
+    }
+}
+@media screen and (max-width: 600px) {
+    .mayosis-admin-toolbar {
+        display: none;
+    }
+    .comparison-table {
+        width: auto;
+    }
+    .mayosis-filter-field-include-exclude-wrap {
+        display: block;
+    }
+    .mayosis-field-exclude-wrap,
+    .mayosis-field-include-wrap {
+        width: 100%;
+    }
+    .mayosis-field-exclude-wrap {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width: 485px) {
+    .mayosis-filter-field-td.mayosis-filter-delete-td,
+    .mayosis-filter-label-td.mayosis-filter-delete-controls-td {
+        display: block !important;
+        width: auto !important;
+        border: 0 !important;
+    }
+    .mayosis-filter-view {
+        display: none;
+    }
+    li.mayosis-filter-entity,
+    li.mayosis-filter-label,
+    li.mayosis-filter-slug {
+        width: 30%;
+    }
+    .form-table.mayosis-sortable-table td,
+    .form-table.mayosis-sortable-table th {
+        padding-left: 0;
+    }
+}

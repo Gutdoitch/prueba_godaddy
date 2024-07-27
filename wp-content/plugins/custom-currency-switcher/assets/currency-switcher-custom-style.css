@@ -1,0 +1,16 @@
+select#edd-multi-currency-dropdown{
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	background-color: white;
+}
+
+.custom-currency option {
+	background-color: #FFDF00; /* Background color for options */
+	color: #FE2A00; /* Text color for options */
+}
+
+.custom-currency:focus {
+	outline: none;
+	border-color: #FE2A00; /* Border color when focused */
+}

@@ -1,0 +1,4653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mayosis\n"
+"POT-Creation-Date: 2021-09-18 17:31+0600\n"
+"PO-Revision-Date: 2021-09-18 17:31+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:15
+msgid "Sorry!! Something Went Wrong!!!"
+msgstr "Sorry!! Something Went Wrong!!!"
+
+#: 404.php:21 content/vendor-404.php:16
+msgid "40 + 4 ="
+msgstr "40 + 4 ="
+
+#: 404.php:21 content/vendor-404.php:16
+msgid "404"
+msgstr "404"
+
+#: 404.php:23 content/vendor-404.php:18
+msgid ""
+"The Page You Are Looking For is Missing, Misspelled or Doesn&#39;t Exist!"
+msgstr ""
+"The Page You Are Looking For is Missing, Misspelled or Doesn&#39;t Exist!"
+
+#: 404.php:28 content/vendor-404.php:23
+msgid "We are Sorry For This Inconvenience! Don&#39;t Worry!!"
+msgstr "We are Sorry For This Inconvenience! Don&#39;t Worry!!"
+
+#: 404.php:29 content/vendor-404.php:24
+msgid "Our"
+msgstr "Our"
+
+#: 404.php:29 content/vendor-404.php:24
+msgid "Homepage"
+msgstr "Homepage"
+
+#: 404.php:29 content/vendor-404.php:24
+msgid ""
+"will Guide You Through All of Our Awesome Things, Or You Can Have A Quick "
+"Look at Our Products!!!"
+msgstr ""
+"will Guide You Through All of Our Awesome Things, Or You Can Have A Quick "
+"Look at Our Products!!!"
+
+#: admin/admin-pages/admin.php:22 admin/admin-pages/mayosis-welcome.php:43
+#: admin/admin-pages/mayosis_license_page.php:15
+#: admin/admin-pages/mayosis_recommandation.php:43
+#: admin/merlin/class-merlin.php:713
+msgid "Welcome"
+msgstr "Welcome"
+
+#: admin/admin-pages/admin.php:25 admin/admin-pages/mayosis-welcome.php:47
+#: admin/admin-pages/mayosis_license_page.php:19
+#: admin/admin-pages/mayosis_recommandation.php:47
+msgid "Demo Import"
+msgstr "Demo Import"
+
+#: admin/admin-pages/mayosis-welcome.php:33
+#: admin/admin-pages/mayosis_license_page.php:5
+#: admin/admin-pages/mayosis_recommandation.php:33
+msgid "Welcome to Mayosis"
+msgstr "Welcome to Mayosis"
+
+#: admin/admin-pages/mayosis-welcome.php:35
+#: admin/admin-pages/mayosis_recommandation.php:35
+msgid "mayosis theme is now installed and ready to use!"
+msgstr "mayosis theme is now installed and ready to use!"
+
+#: admin/admin-pages/mayosis-welcome.php:44
+#: admin/admin-pages/mayosis_license_page.php:16
+#: admin/admin-pages/mayosis_recommandation.php:44
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: admin/admin-pages/mayosis-welcome.php:45
+#: admin/admin-pages/mayosis_license_page.php:17
+#: admin/admin-pages/mayosis_recommandation.php:45
+#: admin/merlin/class-merlin.php:726
+msgid "License"
+msgstr "License"
+
+#: admin/admin-pages/mayosis-welcome.php:49
+#: admin/admin-pages/mayosis_recommandation.php:49
+msgid "Recommandations"
+msgstr "Recommandations"
+
+#: admin/admin-pages/mayosis-welcome.php:56
+msgid ""
+"Before you get started, please be sure to always check out documentation "
+"Which Included In the theme folder or from <a href=\"https://teconce.com/"
+"support/docs/mayosis/\" target=\"_blank\">Website</a>. We outline all kinds "
+"of good information and provide you with all the details you need to use "
+"mayosis."
+msgstr ""
+"Before you get started, please be sure to always check out documentation "
+"Which Included In the theme folder or from <a href=\"https://teconce.com/"
+"support/docs/mayosis/\" target=\"_blank\">Website</a>. We outline all kinds "
+"of good information and provide you with all the details you need to use "
+"mayosis."
+
+#: admin/admin-pages/mayosis-welcome.php:59
+msgid ""
+"If you are unable to find your answer in our documentation, please contact "
+"us via  <a href=\"https://teconce.helpviser.com/\" target=\"_blank\">submit "
+"a ticket</a> with your purchase code, site CPanel, and admin login info."
+msgstr ""
+"If you are unable to find your answer in our documentation, please contact "
+"us via  <a href=\"https://teconce.helpviser.com/\" target=\"_blank\">submit "
+"a ticket</a> with your purchase code, site CPanel, and admin login info."
+
+#: admin/admin-pages/mayosis-welcome.php:62
+msgid ""
+"We are very happy to help you and you will get the reply from us  faster "
+"than you expected."
+msgstr ""
+"We are very happy to help you and you will get the reply from us  faster "
+"than you expected."
+
+#: admin/admin-pages/mayosis-welcome.php:66
+msgid "Note: Please Install All Required Plugins Before Install Demo !"
+msgstr "Note: Please Install All Required Plugins Before Install Demo !"
+
+#: admin/admin-pages/mayosis-welcome.php:80
+msgid "WP Version"
+msgstr "WP Version"
+
+#: admin/admin-pages/mayosis-welcome.php:85
+msgid "Language"
+msgstr "Language"
+
+#: admin/admin-pages/mayosis-welcome.php:90
+msgid "WP Memory Limit"
+msgstr "WP Memory Limit"
+
+#: admin/admin-pages/mayosis-welcome.php:95
+#, php-format
+msgid "%s - We recommend setting memory to at least 96MB. %s."
+msgstr "%s - We recommend setting memory to at least 96MB. %s."
+
+#: admin/admin-pages/mayosis-welcome.php:95
+msgid "More info"
+msgstr "More info"
+
+#: admin/admin-pages/mayosis-welcome.php:105
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: admin/admin-pages/mayosis-welcome.php:109
+#, php-format
+msgid ""
+"%s - We recommend setting PHP max_input_vars to at least 3000. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+msgstr ""
+"%s - We recommend setting PHP max_input_vars to at least 3000. See: <a href="
+"\"%s\" target=\"_blank\">Increasing the PHP max vars limit</a>"
+
+#: admin/admin-pages/mayosis-welcome.php:117
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: admin/admin-pages/mayosis-welcome.php:137
+msgid "Server Info"
+msgstr "Server Info"
+
+#: admin/admin-pages/mayosis-welcome.php:147
+msgid "Secure Connection(HTTPS)"
+msgstr "Secure Connection(HTTPS)"
+
+#: admin/admin-pages/mayosis-welcome.php:165
+msgid "Theme Name"
+msgstr "Theme Name"
+
+#: admin/admin-pages/mayosis-welcome.php:170
+msgid "Author Name"
+msgstr "Author Name"
+
+#: admin/admin-pages/mayosis-welcome.php:175
+msgid "Current Version"
+msgstr "Current Version"
+
+#: admin/admin-pages/mayosis-welcome.php:180
+msgid "Text Domain"
+msgstr "Text Domain"
+
+#: admin/admin-pages/mayosis-welcome.php:185
+msgid "Child Theme"
+msgstr "Child Theme"
+
+#: admin/admin-pages/mayosis_license_page.php:7
+msgid "Mayosis theme is now installed and ready to use!"
+msgstr "Mayosis theme is now installed and ready to use!"
+
+#: admin/mayosis-admin-helper.php:16
+msgid "Left Menu"
+msgstr "Left Menu"
+
+#: admin/mayosis-admin-helper.php:17
+msgid "Right Menu"
+msgstr "Right Menu"
+
+#: admin/mayosis-admin-helper.php:31 admin/mayosis-admin-helper.php:48
+#: admin/mayosis-admin-helper.php:76 admin/mayosis-admin-helper.php:118
+#: admin/mayosis-admin-helper.php:172 admin/mayosis-admin-helper.php:241
+msgid "Footer Widget Area 1"
+msgstr "Footer Widget Area 1"
+
+#: admin/mayosis-admin-helper.php:32 admin/mayosis-admin-helper.php:49
+#: admin/mayosis-admin-helper.php:77 admin/mayosis-admin-helper.php:119
+#: admin/mayosis-admin-helper.php:173 admin/mayosis-admin-helper.php:242
+msgid "This is Footer First Column Sidebar."
+msgstr "This is Footer First Column Sidebar."
+
+#: admin/mayosis-admin-helper.php:60 admin/mayosis-admin-helper.php:88
+#: admin/mayosis-admin-helper.php:130 admin/mayosis-admin-helper.php:184
+#: admin/mayosis-admin-helper.php:253
+msgid "Footer Widget Area 2"
+msgstr "Footer Widget Area 2"
+
+#: admin/mayosis-admin-helper.php:61 admin/mayosis-admin-helper.php:89
+#: admin/mayosis-admin-helper.php:131 admin/mayosis-admin-helper.php:185
+#: admin/mayosis-admin-helper.php:254
+msgid "This is Footer Second Column Sidebar"
+msgstr "This is Footer Second Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:101 admin/mayosis-admin-helper.php:143
+#: admin/mayosis-admin-helper.php:197 admin/mayosis-admin-helper.php:266
+msgid "Footer Widget Area 3"
+msgstr "Footer Widget Area 3"
+
+#: admin/mayosis-admin-helper.php:102 admin/mayosis-admin-helper.php:144
+#: admin/mayosis-admin-helper.php:198 admin/mayosis-admin-helper.php:267
+msgid "This is Footer Three Column Sidebar"
+msgstr "This is Footer Three Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:156 admin/mayosis-admin-helper.php:210
+#: admin/mayosis-admin-helper.php:279
+msgid "Footer Widget Area 4"
+msgstr "Footer Widget Area 4"
+
+#: admin/mayosis-admin-helper.php:157 admin/mayosis-admin-helper.php:211
+#: admin/mayosis-admin-helper.php:280
+msgid "This is Footer Four Column Sidebar"
+msgstr "This is Footer Four Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:224 admin/mayosis-admin-helper.php:293
+msgid "Footer Widget Area 5"
+msgstr "Footer Widget Area 5"
+
+#: admin/mayosis-admin-helper.php:225 admin/mayosis-admin-helper.php:294
+msgid "This is Footer Five Column Sidebar"
+msgstr "This is Footer Five Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:306
+msgid "Footer Widget Area 6"
+msgstr "Footer Widget Area 6"
+
+#: admin/mayosis-admin-helper.php:307
+msgid "This is Footer Six Column Sidebar"
+msgstr "This is Footer Six Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:322
+msgid "Additional Footer Widget Area 1"
+msgstr "Additional Footer Widget Area 1"
+
+#: admin/mayosis-admin-helper.php:323
+msgid "This is Additional Footer First Column Sidebar."
+msgstr "This is Additional Footer First Column Sidebar."
+
+#: admin/mayosis-admin-helper.php:334
+msgid "Additional Footer Widget Area 2"
+msgstr "Additional Footer Widget Area 2"
+
+#: admin/mayosis-admin-helper.php:335
+msgid "This is Additional Footer Second Column Sidebar"
+msgstr "This is Additional Footer Second Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:346
+msgid "Additional Footer Widget Area 3"
+msgstr "Additional Footer Widget Area 3"
+
+#: admin/mayosis-admin-helper.php:347
+msgid "This is Additional Footer Third Column Sidebar"
+msgstr "This is Additional Footer Third Column Sidebar"
+
+#: admin/mayosis-admin-helper.php:364
+msgid "Copyright Footer"
+msgstr "Copyright Footer"
+
+#: admin/mayosis-admin-helper.php:365
+msgid "This is Copyright Footer for Rightside Content"
+msgstr "This is Copyright Footer for Rightside Content"
+
+#: admin/mayosis-admin-helper.php:379 admin/mayosis-admin-helper.php:394
+#: admin/mayosis-admin-helper.php:421
+msgid "Product Default Template Widget One"
+msgstr "Product Default Template Widget One"
+
+#: admin/mayosis-admin-helper.php:380 admin/mayosis-admin-helper.php:395
+#: admin/mayosis-admin-helper.php:407 admin/mayosis-admin-helper.php:422
+#: admin/mayosis-admin-helper.php:434 admin/mayosis-admin-helper.php:446
+msgid "This is Additional Widget for Default Product"
+msgstr "This is Additional Widget for Default Product"
+
+#: admin/mayosis-admin-helper.php:406 admin/mayosis-admin-helper.php:433
+msgid "Product Default Template Widget Two"
+msgstr "Product Default Template Widget Two"
+
+#: admin/mayosis-admin-helper.php:445
+msgid "Product Default Template Widget Three"
+msgstr "Product Default Template Widget Three"
+
+#: admin/merlin/class-merlin.php:453
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "Something went wrong. Please refresh the page and try again!"
+
+#: admin/merlin/class-merlin.php:599
+msgid "Please define default parameters in the form of an array."
+msgstr "Please define default parameters in the form of an array."
+
+#: admin/merlin/class-merlin.php:604
+msgid "Please define an SVG icon filename."
+msgstr "Please define an SVG icon filename."
+
+#: admin/merlin/class-merlin.php:720
+msgid "Child"
+msgstr "Child"
+
+#: admin/merlin/class-merlin.php:734
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/merlin/class-merlin.php:743 admin/merlin/class-merlin.php:2023
+msgid "Content"
+msgstr "Content"
+
+#: admin/merlin/class-merlin.php:749
+msgid "Ready"
+msgstr "Ready"
+
+#: admin/merlin/class-merlin.php:854
+msgid "The welcome step has been displayed"
+msgstr "The welcome step has been displayed"
+
+#: admin/merlin/class-merlin.php:948
+msgid "The license activation step has been displayed"
+msgstr "The license activation step has been displayed"
+
+#: admin/merlin/class-merlin.php:1018
+msgid "The child theme installation step has been displayed"
+msgstr "The child theme installation step has been displayed"
+
+#: admin/merlin/class-merlin.php:1105
+#: admin/tgm/class-tgm-plugin-activation.php:2333
+msgid "Required"
+msgstr "Required"
+
+#: admin/merlin/class-merlin.php:1106
+msgid "req"
+msgstr "req"
+
+#: admin/merlin/class-merlin.php:1146
+msgid "The plugin installation step has been displayed"
+msgstr "The plugin installation step has been displayed"
+
+#: admin/merlin/class-merlin.php:1182 admin/merlin/merlin-config.php:46
+msgid "Next"
+msgstr "Next"
+
+#: admin/merlin/class-merlin.php:1232
+msgid "Select Demo"
+msgstr "Select Demo"
+
+#: admin/merlin/class-merlin.php:1270
+msgid "The content import step has been displayed"
+msgstr "The content import step has been displayed"
+
+#: admin/merlin/class-merlin.php:1350
+msgid "The final step has been displayed"
+msgstr "The final step has been displayed"
+
+#: admin/merlin/class-merlin.php:1427
+msgid "The existing child theme was activated"
+msgstr "The existing child theme was activated"
+
+#: admin/merlin/class-merlin.php:1444
+msgid "The newly generated child theme was activated"
+msgstr "The newly generated child theme was activated"
+
+#: admin/merlin/class-merlin.php:1465
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+"Yikes! The theme activation failed. Please try again or contact support."
+
+#: admin/merlin/class-merlin.php:1474
+msgid "Please add your license key before attempting to activate one."
+msgstr "Please add your license key before attempting to activate one."
+
+#: admin/merlin/class-merlin.php:1487
+msgid "The license activation was performed with the following results"
+msgstr "The license activation was performed with the following results"
+
+#: admin/merlin/class-merlin.php:1533 admin/merlin/class-merlin.php:1574
+msgid "An error occurred, please try again."
+msgstr "An error occurred, please try again."
+
+#. translators: Expiration date
+#: admin/merlin/class-merlin.php:1546
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Your license key expired on %s."
+
+#: admin/merlin/class-merlin.php:1552
+msgid "Your license key has been disabled."
+msgstr "Your license key has been disabled."
+
+#: admin/merlin/class-merlin.php:1556
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+
+#: admin/merlin/class-merlin.php:1561
+msgid "Your license is not active for this URL."
+msgstr "Your license is not active for this URL."
+
+#. translators: EDD Item Name
+#: admin/merlin/class-merlin.php:1566
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "This appears to be an invalid license key for %s."
+
+#: admin/merlin/class-merlin.php:1570
+msgid "Your license key has reached its activation limit."
+msgstr "Your license key has reached its activation limit."
+
+#: admin/merlin/class-merlin.php:1664
+msgid "The child theme functions.php content was generated"
+msgstr "The child theme functions.php content was generated"
+
+#: admin/merlin/class-merlin.php:1695
+msgid "The child theme style.css content was generated"
+msgstr "The child theme style.css content was generated"
+
+#: admin/merlin/class-merlin.php:1729
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+
+#: admin/merlin/class-merlin.php:1731
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr "The child theme screenshot was not generated, because of these results"
+
+#: admin/merlin/class-merlin.php:1760
+msgid "Activating"
+msgstr "Activating"
+
+#: admin/merlin/class-merlin.php:1776
+msgid "Updating"
+msgstr "Updating"
+
+#: admin/merlin/class-merlin.php:1792 admin/merlin/class-merlin.php:1808
+#: admin/merlin/class-merlin.php:2026 admin/merlin/class-merlin.php:2039
+#: admin/merlin/class-merlin.php:2052 admin/merlin/class-merlin.php:2065
+#: admin/merlin/class-merlin.php:2078 admin/merlin/class-merlin.php:2091
+#: admin/merlin/class-merlin.php:2134
+msgid "Installing"
+msgstr "Installing"
+
+#: admin/merlin/class-merlin.php:1800
+msgid "A plugin with the following data will be processed"
+msgstr "A plugin with the following data will be processed"
+
+#: admin/merlin/class-merlin.php:1812
+msgid "A plugin with the following data was processed"
+msgstr "A plugin with the following data was processed"
+
+#: admin/merlin/class-merlin.php:1821 admin/merlin/class-merlin.php:2027
+#: admin/merlin/class-merlin.php:2040 admin/merlin/class-merlin.php:2053
+#: admin/merlin/class-merlin.php:2066 admin/merlin/class-merlin.php:2079
+#: admin/merlin/class-merlin.php:2092
+#: edd_templates/shortcode-profile-editor.php:22
+msgid "Success"
+msgstr "Success"
+
+#: admin/merlin/class-merlin.php:1844
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+"The content importer AJAX call failed to start, because of incorrect data"
+
+#: admin/merlin/class-merlin.php:1849
+msgid "Invalid content!"
+msgstr "Invalid content!"
+
+#: admin/merlin/class-merlin.php:1860
+msgid "The content import AJAX call will be executed with this import data"
+msgstr "The content import AJAX call will be executed with this import data"
+
+#: admin/merlin/class-merlin.php:1902
+msgid "The content import AJAX call failed with this passed data"
+msgstr "The content import AJAX call failed with this passed data"
+
+#: admin/merlin/class-merlin.php:1913
+msgid "Error"
+msgstr "Error"
+
+#: admin/merlin/class-merlin.php:1927
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+
+#: admin/merlin/class-merlin.php:1932
+msgid "Invalid data!"
+msgstr "Invalid data!"
+
+#: admin/merlin/class-merlin.php:2024
+msgid "Demo content data."
+msgstr "Demo content data."
+
+#: admin/merlin/class-merlin.php:2025 admin/merlin/class-merlin.php:2038
+#: admin/merlin/class-merlin.php:2051 admin/merlin/class-merlin.php:2064
+#: admin/merlin/class-merlin.php:2077 admin/merlin/class-merlin.php:2090
+msgid "Pending"
+msgstr "Pending"
+
+#: admin/merlin/class-merlin.php:2036
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/merlin/class-merlin.php:2037
+msgid "Sample widgets data."
+msgstr "Sample widgets data."
+
+#: admin/merlin/class-merlin.php:2049
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: admin/merlin/class-merlin.php:2050
+msgid "Sample Revolution sliders data."
+msgstr "Sample Revolution sliders data."
+
+#: admin/merlin/class-merlin.php:2062
+msgid "Options"
+msgstr "Options"
+
+#: admin/merlin/class-merlin.php:2063
+msgid "Sample theme options data."
+msgstr "Sample theme options data."
+
+#: admin/merlin/class-merlin.php:2075
+msgid "Redux Options"
+msgstr "Redux Options"
+
+#: admin/merlin/class-merlin.php:2076
+msgid "Redux framework options."
+msgstr "Redux framework options."
+
+#: admin/merlin/class-merlin.php:2088
+msgid "After import setup"
+msgstr "After import setup"
+
+#: admin/merlin/class-merlin.php:2089
+msgid "After import setup."
+msgstr "After import setup."
+
+#: admin/merlin/class-merlin.php:2118
+msgid "The revolution slider import was executed"
+msgstr "The revolution slider import was executed"
+
+#: admin/merlin/class-merlin.php:2155
+msgid "The home page was set"
+msgstr "The home page was set"
+
+#: admin/merlin/class-merlin.php:2165
+msgid "The blog page was set"
+msgstr "The blog page was set"
+
+#: admin/merlin/class-merlin.php:2180
+msgid "The Hello world post status was set to draft"
+msgstr "The Hello world post status was set to draft"
+
+#: admin/merlin/class-merlin.php:2204
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+
+#: admin/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr "The customizer import has finished successfully"
+
+#: admin/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "Error: The customizer import file is missing! File path: %s"
+
+#: admin/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+
+#: admin/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+
+#: admin/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+
+#: admin/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr "The file was not able to save to disk, while trying to download it"
+
+#: admin/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr "Missing URL for downloading a file!"
+
+#: admin/merlin/includes/class-merlin-downloader.php:84
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+
+#: admin/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr "The Redux Framework data was imported"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr "Error: Widget import file could not be found."
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr "Error: Widget import file does not have any content in it."
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+"Error: Widget import data could not be read. Please try a different file."
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "Sidebar does not exist in theme (moving widget to Inactive)"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr "Site does not support widget"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr "Widget already exists"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr "Imported"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr "Imported to Inactive"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr "No Title"
+
+#: admin/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr "No results for widget import!"
+
+#: admin/merlin/marlin-demo.php:117 admin/merlin/marlin-demo.php:142
+msgid ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall Elementor as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall Elementor as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+
+#: admin/merlin/marlin-demo.php:129
+msgid ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall WPBakery as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall WPBakery as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+
+#: admin/merlin/marlin-demo.php:156
+msgid ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall WPbakery as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+"Before Setup Demo Please Install All Plugin Requireds.Intall WPbakery as "
+"Page Builder.For Import You Need to wait 3-5 Mintues."
+
+#: admin/merlin/marlin-demo.php:168 admin/merlin/marlin-demo.php:180
+msgid ""
+"You Should Install Frontend Submission before use this demo.Intall Elementor "
+"as Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+"You Should Install Frontend Submission before use this demo.Intall Elementor "
+"as Page Builder.For Import You Need to wait 3-5 Mintues."
+
+#: admin/merlin/marlin-demo.php:192 admin/merlin/marlin-demo.php:205
+#: admin/merlin/marlin-demo.php:218 admin/merlin/marlin-demo.php:230
+#: admin/merlin/marlin-demo.php:242 admin/merlin/marlin-demo.php:254
+#: admin/merlin/marlin-demo.php:267
+msgid ""
+"If you want to make this site subscription base you should install All "
+"Access before use this demo.Intall Elementor as Page Builder.For Import You "
+"Need to wait 3-5 Mintues. After import please make all product format video "
+"from each download!"
+msgstr ""
+"If you want to make this site subscription base you should install All "
+"Access before use this demo.Intall Elementor as Page Builder.For Import You "
+"Need to wait 3-5 Mintues. After import please make all product format video "
+"from each download!"
+
+#: admin/merlin/marlin-demo.php:278
+msgid ""
+"You Should Change Language to a RTL Language before use this demo.Intall "
+"Elementor as Page Builder.For Import You Need to wait 3-5 Mintues."
+msgstr ""
+"You Should Change Language to a RTL Language before use this demo.Intall "
+"Elementor as Page Builder.For Import You Need to wait 3-5 Mintues."
+
+#: admin/merlin/merlin-config.php:38
+msgid "Theme Setup"
+msgstr "Theme Setup"
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: admin/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+
+#: admin/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: admin/merlin/merlin-config.php:43
+msgid "Disable mayosis wizard"
+msgstr "Disable mayosis wizard"
+
+#: admin/merlin/merlin-config.php:45
+msgid "Skip"
+msgstr "Skip"
+
+#: admin/merlin/merlin-config.php:47
+msgid "Start"
+msgstr "Start"
+
+#: admin/merlin/merlin-config.php:48 buddypress/activity/entry.php:135
+#: buddypress/forums/index.php:196 edd_templates/download-redirect.php:186
+#: edd_templates/shortcode-subscriptions.php:81
+msgid "Cancel"
+msgstr "Cancel"
+
+#: admin/merlin/merlin-config.php:49 admin/merlin/merlin-config.php:50
+#: admin/merlin/merlin-config.php:51
+#: admin/tgm/class-tgm-plugin-activation.php:2777
+msgid "Install"
+msgstr "Install"
+
+#: admin/merlin/merlin-config.php:52
+msgid "Import"
+msgstr "Import"
+
+#: admin/merlin/merlin-config.php:53
+#: admin/tgm/class-tgm-plugin-activation.php:2786
+#: buddypress/members/activate.php:16 buddypress/members/activate.php:71
+msgid "Activate"
+msgstr "Activate"
+
+#: admin/merlin/merlin-config.php:54
+msgid "Later"
+msgstr "Later"
+
+#. translators: Theme Name
+#: admin/merlin/merlin-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr "Activate %s"
+
+#. translators: Theme Name
+#: admin/merlin/merlin-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr "%s is Activated"
+
+#. translators: Theme Name
+#: admin/merlin/merlin-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr "Enter your license key to enable remote updates and theme support."
+
+#: admin/merlin/merlin-config.php:62
+msgid "License key"
+msgstr "License key"
+
+#: admin/merlin/merlin-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr "The theme is already registered, so you can go to the next step!"
+
+#: admin/merlin/merlin-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr "Your theme is activated! Remote updates and theme support are enabled."
+
+#: admin/merlin/merlin-config.php:65
+msgid "Need help?"
+msgstr "Need help?"
+
+#. translators: Theme Name
+#: admin/merlin/merlin-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr "Welcome to %s"
+
+#: admin/merlin/merlin-config.php:69
+msgid "Hi. Welcome back"
+msgstr "Hi. Welcome back"
+
+#: admin/merlin/merlin-config.php:70
+msgid ""
+"This wizard will set up Mayosis theme, install plugins, and import content. "
+"It is optional & should take only a few minutes."
+msgstr ""
+"This wizard will set up Mayosis theme, install plugins, and import content. "
+"It is optional & should take only a few minutes."
+
+#: admin/merlin/merlin-config.php:71
+msgid ""
+"You may have already run mayosis theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"You may have already run mayosis theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+
+#: admin/merlin/merlin-config.php:73
+msgid "Install Mayosis Child Theme"
+msgstr "Install Mayosis Child Theme"
+
+#: admin/merlin/merlin-config.php:74
+msgid "You're good to go!"
+msgstr "You're good to go!"
+
+#: admin/merlin/merlin-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"Let's build & activate a child theme so you may easily make theme changes."
+
+#: admin/merlin/merlin-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+
+#: admin/merlin/merlin-config.php:77
+msgid "Learn about child themes"
+msgstr "Learn about child themes"
+
+#: admin/merlin/merlin-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+"Awesome. Your child theme has already been installed and is now activated."
+
+#: admin/merlin/merlin-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "Awesome. Your child theme has been created and is now activated."
+
+#: admin/merlin/merlin-config.php:81
+#: admin/tgm/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: admin/merlin/merlin-config.php:82
+msgid "You're up to speed!"
+msgstr "You're up to speed!"
+
+#: admin/merlin/merlin-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+
+#: admin/merlin/merlin-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+
+#: admin/merlin/merlin-config.php:85 admin/merlin/merlin-config.php:89
+msgid "Advanced"
+msgstr "Advanced"
+
+#: admin/merlin/merlin-config.php:87
+msgid "Import Demo Content"
+msgstr "Import Demo Content"
+
+#: admin/merlin/merlin-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme.Choose Your Preferred demo from below."
+msgstr ""
+"Let's import content to your website, to help you get familiar with the "
+"theme.Choose Your Preferred demo from below."
+
+#: admin/merlin/merlin-config.php:91
+msgid "All done. Have fun!"
+msgstr "All done. Have fun!"
+
+#. translators: Theme Author
+#: admin/merlin/merlin-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "Your theme has been all set up. Enjoy your new theme by %s."
+
+#: admin/merlin/merlin-config.php:95
+msgid "Extras"
+msgstr "Extras"
+
+#: admin/merlin/merlin-config.php:96
+msgid "View your website"
+msgstr "View your website"
+
+#: admin/merlin/merlin-config.php:97
+msgid "Explore WordPress"
+msgstr "Explore WordPress"
+
+#: admin/merlin/merlin-config.php:98
+msgid "Get Theme Support"
+msgstr "Get Theme Support"
+
+#: admin/merlin/merlin-config.php:99
+msgid "Start Customizing"
+msgstr "Start Customizing"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:51
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:64
+msgid "Could not open the XML file for parsing!"
+msgstr "Could not open the XML file for parsing!"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:244
+msgid "Content import start error: "
+msgstr "Content import start error: "
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:276
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:375
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:500
+msgid "New AJAX call!"
+msgstr "New AJAX call!"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr "Could not open the file for parsing"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:525
+msgid "The file does not exist, please try again."
+msgstr "The file does not exist, please try again."
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:588
+msgid "Invalid author mapping"
+msgstr "Invalid author mapping"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr "Cannot import auto-draft posts"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:781
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Failed to import \"%s\": Invalid post type %s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:791
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" already exists."
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:869
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Skipping attachment \"%s\", fetching attachments disabled"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:883
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr "Failed to import \"%s\" (%s)"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:915
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1833
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr "Imported \"%s\" (%s)"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:920
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr "Post %d remapped to %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:960
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr "Failed to import term: %s - %s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1105
+msgid "Invalid file type"
+msgstr "Invalid file type"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1604
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr "Failed to import user \"%s\""
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1625
+#, php-format
+msgid "Imported user \"%s\""
+msgstr "Imported user \"%s\""
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1629
+#, php-format
+msgid "User %d remapped to %d"
+msgstr "User %d remapped to %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1794
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Failed to import %s %s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1838
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr "Term %d remapped to %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1897
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1906
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr "Meta for term_id %d : %s => %s ; successfully added!"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1958
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Remote server returned %1$d %2$s for %3$s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+msgid "Zero size file downloaded"
+msgstr "Zero size file downloaded"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1986
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Remote file is too large, limit is %s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr "Running post-processing for post %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2024
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "Could not find the post parent for \"%s\" (post #%d)"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2029
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "Post %d was imported with parent %d, but could not be found"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2043
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "Could not find the author for \"%s\" (post #%d)"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2048
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "Post %d was imported with author \"%s\", but could not be found"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "Post %d was marked for post-processing, but none was required."
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2085
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "Could not update \"%s\" (post #%d) with mapped data"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2130
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "Could not find the menu object for \"%s\" (post #%d)"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2135
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2157
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Could not find the comment parent for comment #%d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2161
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "Comment %d was imported with parent %d, but could not be found"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2175
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr "Could not find the author for comment #%d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2179
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "Comment %d was imported with author %d, but could not be found"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2196
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr "Could not update comment #%d with mapped data"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2227
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr "Faulty term_id provided in terms-to-be-remapped array %s"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2237
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr "No taxonomy provided in terms-to-be-remapped array for term #%d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2247
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr "No parent_slug identified in remapping-array for term: %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2255
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr "No data returned by get_term_by for term_id #%d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2288
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr "Could not update \"%s\" (term #%d) with mapped data"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2298
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr "Term %d was successfully updated with parent %d"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2333
+msgid "Starting remapping of featured images"
+msgstr "Starting remapping of featured images"
+
+#: admin/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2342
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr "Remapping featured image ID %d to new ID %d for post ID %d"
+
+#: admin/tgm/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#. translators: %s: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:304
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#. translators: %s: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:306
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: admin/tgm/class-tgm-plugin-activation.php:307
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:310
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:316
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:322
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: admin/tgm/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: admin/tgm/class-tgm-plugin-activation.php:345
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: admin/tgm/class-tgm-plugin-activation.php:350
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#: admin/tgm/class-tgm-plugin-activation.php:355
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: admin/tgm/class-tgm-plugin-activation.php:359
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: admin/tgm/class-tgm-plugin-activation.php:360
+#: admin/tgm/class-tgm-plugin-activation.php:887
+#: admin/tgm/class-tgm-plugin-activation.php:2593
+#: admin/tgm/class-tgm-plugin-activation.php:3640
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: admin/tgm/class-tgm-plugin-activation.php:361
+#: admin/tgm/class-tgm-plugin-activation.php:3219
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: admin/tgm/class-tgm-plugin-activation.php:362
+#: admin/tgm/class-tgm-plugin-activation.php:3012
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+
+#. translators: 1: dashboard link.
+#: admin/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: admin/tgm/class-tgm-plugin-activation.php:369
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: admin/tgm/class-tgm-plugin-activation.php:370
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+
+#: admin/tgm/class-tgm-plugin-activation.php:371
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: admin/tgm/class-tgm-plugin-activation.php:574
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: admin/tgm/class-tgm-plugin-activation.php:575
+msgid "Update Required"
+msgstr "Update Required"
+
+#: admin/tgm/class-tgm-plugin-activation.php:692
+msgid "Set the parent_slug config variable instead."
+msgstr "Set the parent_slug config variable instead."
+
+#: admin/tgm/class-tgm-plugin-activation.php:994
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+
+#: admin/tgm/class-tgm-plugin-activation.php:994
+#: admin/tgm/class-tgm-plugin-activation.php:997
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+
+#: admin/tgm/class-tgm-plugin-activation.php:997
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+
+#: admin/tgm/class-tgm-plugin-activation.php:1181
+#: admin/tgm/class-tgm-plugin-activation.php:3008
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#. translators: %s: version number
+#: admin/tgm/class-tgm-plugin-activation.php:2042
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2336
+msgid "Recommended"
+msgstr "Recommended"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2352
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2355
+msgid "External Source"
+msgstr "External Source"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2358
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2375
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2381
+msgid "Active"
+msgstr "Active"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2387
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2390
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2393
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#. translators: 1: install status, 2: update status
+#: admin/tgm/class-tgm-plugin-activation.php:2402
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2452
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2456
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: admin/tgm/class-tgm-plugin-activation.php:2460
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2542
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2550
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2558
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2570
+msgid "Available version:"
+msgstr "Available version:"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2593
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2607
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2608
+msgid "Source"
+msgstr "Source"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2609
+msgid "Type"
+msgstr "Type"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2613
+#: includes/products/information-version.php:11
+msgid "Version"
+msgstr "Version"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2614
+#: edd_templates/shortcode-all-access-passes.php:29
+#: edd_templates/shortcode-subscription-receipt.php:40
+#: edd_templates/shortcode-subscriptions.php:36
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2663
+#, php-format
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2668
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm/class-tgm-plugin-activation.php:2674
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2744
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2783
+#: edd_templates/wish-list-edit.php:34
+msgid "Update"
+msgstr "Update"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2862
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2968
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2994
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: admin/tgm/class-tgm-plugin-activation.php:3218
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3558
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: admin/tgm/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3563
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: admin/tgm/class-tgm-plugin-activation.php:3567
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3569
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: admin/tgm/class-tgm-plugin-activation.php:3569
+#: admin/tgm/class-tgm-plugin-activation.php:3577
+msgid "Show Details"
+msgstr "Show Details"
+
+#: admin/tgm/class-tgm-plugin-activation.php:3569
+#: admin/tgm/class-tgm-plugin-activation.php:3577
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: admin/tgm/class-tgm-plugin-activation.php:3570
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: admin/tgm/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: admin/tgm/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: admin/tgm/class-tgm-plugin-activation.php:3578
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: admin/tgm/tgm-init.php:32
+msgid "Mayosis  Core"
+msgstr "Mayosis  Core"
+
+#: admin/tgm/tgm-init.php:40
+msgid "WPBakery Visual Page Builder"
+msgstr "WPBakery Visual Page Builder"
+
+#: admin/tgm/tgm-init.php:47
+msgid "Elementor"
+msgstr "Elementor"
+
+#: admin/tgm/tgm-init.php:52
+msgid "Custom Field Pro"
+msgstr "Custom Field Pro"
+
+#: admin/tgm/tgm-init.php:60
+msgid "Easy Social Share"
+msgstr "Easy Social Share"
+
+#: admin/tgm/tgm-init.php:67 admin/tgm/tgm-init.php:79
+msgid "Easy Digital Download"
+msgstr "Easy Digital Download"
+
+#: admin/tgm/tgm-init.php:73
+msgid "EDD Featured"
+msgstr "EDD Featured"
+
+#: admin/tgm/tgm-init.php:85
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/tgm/tgm-init.php:91
+msgid "Fontier Font Preview"
+msgstr "Fontier Font Preview"
+
+#: affiliatewp/dashboard-tab-urls.php:6
+msgid "Affiliate URLs"
+msgstr "Affiliate URLs"
+
+#: affiliatewp/dashboard-tab-urls.php:19
+#, php-format
+msgid "Your affiliate ID is: <strong>%s</strong>"
+msgstr "Your affiliate ID is: <strong>%s</strong>"
+
+#: affiliatewp/dashboard-tab-urls.php:21
+#, php-format
+msgid "Your affiliate username is: <strong>%s</strong>"
+msgstr "Your affiliate username is: <strong>%s</strong>"
+
+#: affiliatewp/dashboard-tab-urls.php:23
+#, php-format
+msgid "Your referral URL is: <strong>%s</strong>"
+msgstr "Your referral URL is: <strong>%s</strong>"
+
+#: affiliatewp/dashboard-tab-urls.php:37
+msgid "Referral URL Generator"
+msgstr "Referral URL Generator"
+
+#: affiliatewp/dashboard-tab-urls.php:38
+msgid ""
+"Enter any URL from this website in the form below to generate a referral "
+"link!"
+msgstr ""
+"Enter any URL from this website in the form below to generate a referral "
+"link!"
+
+#: affiliatewp/dashboard-tab-urls.php:42
+msgid "Page URL"
+msgstr "Page URL"
+
+#: affiliatewp/dashboard-tab-urls.php:47
+msgid "Campaign Name (optional)"
+msgstr "Campaign Name (optional)"
+
+#: affiliatewp/dashboard-tab-urls.php:52
+msgid "Referral URL"
+msgstr "Referral URL"
+
+#: affiliatewp/dashboard-tab-urls.php:54
+msgid "(now copy this referral link and share it anywhere)"
+msgstr "(now copy this referral link and share it anywhere)"
+
+#: affiliatewp/dashboard-tab-urls.php:60
+msgid "Generate URL"
+msgstr "Generate URL"
+
+#: affiliatewp/dashboard.php:7
+msgid "Your affiliate account is pending approval"
+msgstr "Your affiliate account is pending approval"
+
+#: affiliatewp/dashboard.php:11
+msgid "Your affiliate account is not active"
+msgstr "Your affiliate account is not active"
+
+#: affiliatewp/dashboard.php:15
+msgid "Your affiliate account request has been rejected"
+msgstr "Your affiliate account request has been rejected"
+
+#: affiliatewp/dashboard.php:36
+msgid "Your affiliate profile has been updated"
+msgstr "Your affiliate profile has been updated"
+
+#: affiliatewp/dashboard.php:92 affiliatewp/dashboard.php:141
+msgid "Log out"
+msgstr "Log out"
+
+#: author-list.php:67 author-list.php:120
+msgid "Our authors who contributed useful articles for you!"
+msgstr "Our authors who contributed useful articles for you!"
+
+#: author-list.php:94 author-list.php:147 author.php:38
+msgid "Articles"
+msgstr "Articles"
+
+#: author.php:41
+msgid "Network"
+msgstr "Network"
+
+#: author.php:79
+msgid "Author&#39;s Biography"
+msgstr "Author&#39;s Biography"
+
+#: buddypress/activity/activity-loop.php:34
+msgid "Load More"
+msgstr "Load More"
+
+#: buddypress/activity/activity-loop.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Sorry, there was no activity found. Please try a different filter."
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: ISO8601 timestamp, 5: activity relative timestamp
+#: buddypress/activity/comment.php:30
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\" data-livestamp=\"%4$s\">%5$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\" data-livestamp=\"%4$s\">%5$s</span></a>"
+
+#: buddypress/activity/comment.php:40
+#: buddypress/groups/single/forum/edit.php:17 library/mayosis_comment.php:37
+msgid "Reply"
+msgstr "Reply"
+
+#: buddypress/activity/comment.php:46
+#: buddypress/members/single/messages/messages-loop.php:132
+#: buddypress/members/single/messages/single.php:35
+msgid "Delete"
+msgstr "Delete"
+
+#: buddypress/activity/entry.php:60
+msgid "View Conversation"
+msgstr "View Conversation"
+
+#. translators: %s: number of activity comments
+#: buddypress/activity/entry.php:71
+#, php-format
+msgid "Comment %s"
+msgstr "Comment %s"
+
+#: buddypress/activity/entry.php:81
+msgid "Favorite"
+msgstr "Favorite"
+
+#: buddypress/activity/entry.php:85
+msgid "Remove Favorite"
+msgstr "Remove Favorite"
+
+#. translators: accessibility text
+#: buddypress/activity/entry.php:131 fes_templates/frontend-dashboard.php:116
+msgid "Comment"
+msgstr "Comment"
+
+#: buddypress/activity/entry.php:135
+msgid "Post"
+msgstr "Post"
+
+#: buddypress/activity/index.php:84
+msgid "Sitewide activities navigation"
+msgstr "Sitewide activities navigation"
+
+#. translators: %s: number of members
+#: buddypress/activity/index.php:99 buddypress/members/index.php:93
+#, php-format
+msgid "All Members %s"
+msgstr "All Members %s"
+
+#. translators: %s: number of friends
+#: buddypress/activity/index.php:123 buddypress/members/index.php:96
+#, php-format
+msgid "My Friends %s"
+msgstr "My Friends %s"
+
+#. translators: %s: current user groups count
+#: buddypress/activity/index.php:151 buddypress/groups/index.php:109
+#, php-format
+msgid "My Groups %s"
+msgstr "My Groups %s"
+
+#. translators: %s: number of favorites
+#: buddypress/activity/index.php:176
+#, php-format
+msgid "My Favorites %s"
+msgstr "My Favorites %s"
+
+#: buddypress/activity/index.php:196
+msgid "Mentions"
+msgstr "Mentions"
+
+#. translators: %s: new mentions count
+#: buddypress/activity/index.php:203
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s new"
+msgstr[1] "%s new"
+
+#: buddypress/activity/index.php:226
+msgid "Activity secondary navigation"
+msgstr "Activity secondary navigation"
+
+#: buddypress/activity/index.php:228 buddypress/groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: buddypress/activity/index.php:228 buddypress/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: buddypress/activity/index.php:240 buddypress/groups/single/activity.php:15
+#: buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "Show:"
+
+#: buddypress/activity/index.php:242 buddypress/groups/single/activity.php:17
+#: buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Everything &mdash;"
+
+#: buddypress/activity/post-form.php:30
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "What's new in %s, %s?"
+
+#: buddypress/activity/post-form.php:32
+#, php-format
+msgid "What's new, %s?"
+msgstr "What's new, %s?"
+
+#: buddypress/activity/post-form.php:44
+msgid "Post Update"
+msgstr "Post Update"
+
+#: buddypress/activity/post-form.php:51
+msgid "Post in"
+msgstr "Post in"
+
+#: buddypress/activity/post-form.php:54
+#: buddypress/members/single/profile/profile-wp.php:29
+msgid "My Profile"
+msgstr "My Profile"
+
+#: buddypress/blogs/blogs-loop.php:125
+msgid "Sorry, there were no sites found."
+msgstr "Sorry, there were no sites found."
+
+#: buddypress/blogs/create.php:31
+msgid "Site registration is currently disabled"
+msgstr "Site registration is currently disabled"
+
+#: buddypress/blogs/index.php:47
+#, php-format
+msgid "All Sites %s"
+msgstr "All Sites %s"
+
+#: buddypress/blogs/index.php:51
+#, php-format
+msgid "My Sites %s"
+msgstr "My Sites %s"
+
+#: buddypress/blogs/index.php:81 buddypress/forums/index.php:77
+#: buddypress/groups/index.php:140 buddypress/groups/single/forum.php:44
+#: buddypress/members/index.php:123 buddypress/members/single/blogs.php:19
+#: buddypress/members/single/forums.php:18
+#: buddypress/members/single/friends.php:20
+#: buddypress/members/single/groups.php:20
+msgid "Order By:"
+msgstr "Order By:"
+
+#: buddypress/blogs/index.php:83 buddypress/forums/index.php:79
+#: buddypress/groups/index.php:143 buddypress/groups/single/forum.php:46
+#: buddypress/members/index.php:125 buddypress/members/single/blogs.php:21
+#: buddypress/members/single/forums.php:20
+#: buddypress/members/single/friends.php:22
+#: buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "Last Active"
+
+#: buddypress/blogs/index.php:84 buddypress/members/single/blogs.php:22
+msgid "Newest"
+msgstr "Newest"
+
+#: buddypress/blogs/index.php:85 buddypress/groups/index.php:146
+#: buddypress/members/index.php:129 buddypress/members/single/blogs.php:23
+#: buddypress/members/single/friends.php:24
+#: buddypress/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "Alphabetical"
+
+#: buddypress/forums/forums-loop.php:53
+msgid "Topic"
+msgstr "Topic"
+
+#: buddypress/forums/forums-loop.php:54
+msgid "Posts"
+msgstr "Posts"
+
+#: buddypress/forums/forums-loop.php:55
+msgid "Freshness"
+msgstr "Freshness"
+
+#: buddypress/forums/forums-loop.php:75
+#: buddypress/groups/single/forum/topic.php:123
+msgid "Permanent link to this post"
+msgstr "Permanent link to this post"
+
+#. translators: "started by [poster] in [forum]"
+#: buddypress/forums/forums-loop.php:82
+#, php-format
+msgid "Started by %1$s"
+msgstr "Started by %1$s"
+
+#. translators: "started by [poster] in [forum]"
+#: buddypress/forums/forums-loop.php:93
+#, php-format
+msgid "in %1$s"
+msgstr "in %1$s"
+
+#: buddypress/forums/forums-loop.php:164
+msgid "Sorry, there were no forum topics found."
+msgstr "Sorry, there were no forum topics found."
+
+#: buddypress/forums/index.php:43
+#, php-format
+msgid "All Topics %s"
+msgstr "All Topics %s"
+
+#: buddypress/forums/index.php:47
+#, php-format
+msgid "My Topics %s"
+msgstr "My Topics %s"
+
+#: buddypress/forums/index.php:80 buddypress/groups/single/forum.php:47
+#: buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "Most Posts"
+
+#: buddypress/forums/index.php:81 buddypress/groups/single/forum.php:48
+#: buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "Unreplied"
+
+#: buddypress/forums/index.php:152
+msgid "Create New Topic:"
+msgstr "Create New Topic:"
+
+#: buddypress/forums/index.php:159 buddypress/groups/single/forum.php:100
+#: buddypress/groups/single/forum/edit.php:68
+#: edd_templates/wish-list-create.php:15
+msgid "Title:"
+msgstr "Title:"
+
+#: buddypress/forums/index.php:162 buddypress/groups/single/forum.php:103
+#: buddypress/groups/single/forum/edit.php:71
+msgid "Content:"
+msgstr "Content:"
+
+#: buddypress/forums/index.php:165 buddypress/groups/single/forum.php:106
+#: buddypress/groups/single/forum/edit.php:74
+msgid "Tags (comma separated):"
+msgstr "Tags (comma separated):"
+
+#: buddypress/forums/index.php:168
+msgid "Post In Group Forum:"
+msgstr "Post In Group Forum:"
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:171
+msgid "----"
+msgstr "----"
+
+#: buddypress/forums/index.php:195 buddypress/groups/single/forum.php:119
+msgid "Post Topic"
+msgstr "Post Topic"
+
+#: buddypress/forums/index.php:207
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+
+#: buddypress/groups/groups-loop.php:67
+#: buddypress/groups/single/cover-image-header.php:37
+#: buddypress/groups/single/group-header.php:26
+#, php-format
+msgid "active %s"
+msgstr "active %s"
+
+#: buddypress/groups/groups-loop.php:136
+msgid "There were no groups found."
+msgstr "There were no groups found."
+
+#: buddypress/groups/index.php:93
+msgid "Groups directory main navigation"
+msgstr "Groups directory main navigation"
+
+#. translators: %s: all groups count
+#: buddypress/groups/index.php:99
+#, php-format
+msgid "All Groups %s"
+msgstr "All Groups %s"
+
+#: buddypress/groups/index.php:127
+msgid "Groups directory secondary navigation"
+msgstr "Groups directory secondary navigation"
+
+#: buddypress/groups/index.php:144 buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Most Members"
+
+#: buddypress/groups/index.php:145 buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Newly Created"
+
+#. translators: accessibility text
+#: buddypress/groups/index.php:163
+msgid "Groups directory"
+msgstr "Groups directory"
+
+#: buddypress/groups/single/admin.php:11
+msgid "Group secondary navigation"
+msgstr "Group secondary navigation"
+
+#: buddypress/groups/single/admin.php:47
+msgid "Group Name (required)"
+msgstr "Group Name (required)"
+
+#: buddypress/groups/single/admin.php:50
+msgid "Group Description (required)"
+msgstr "Group Description (required)"
+
+#: buddypress/groups/single/admin.php:66
+msgid "Notify group members of these changes via email"
+msgstr "Notify group members of these changes via email"
+
+#: buddypress/groups/single/admin.php:79 buddypress/groups/single/admin.php:186
+#: buddypress/groups/single/forum/edit.php:86
+#: buddypress/groups/single/forum/edit.php:116
+#: buddypress/members/single/profile/edit.php:88
+#: buddypress/members/single/settings/general.php:47
+#: buddypress/members/single/settings/notifications.php:40
+#: edd_templates/shortcode-profile-editor.php:222
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: buddypress/groups/single/admin.php:102
+msgid "Enable discussion forum"
+msgstr "Enable discussion forum"
+
+#: buddypress/groups/single/admin.php:112
+msgid "Privacy Options"
+msgstr "Privacy Options"
+
+#: buddypress/groups/single/admin.php:118
+msgid "This is a public group"
+msgstr "This is a public group"
+
+#: buddypress/groups/single/admin.php:120
+msgid "Any site member can join this group."
+msgstr "Any site member can join this group."
+
+#: buddypress/groups/single/admin.php:121
+#: buddypress/groups/single/admin.php:132
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"This group will be listed in the groups directory and in search results."
+
+#: buddypress/groups/single/admin.php:122
+msgid "Group content and activity will be visible to any site member."
+msgstr "Group content and activity will be visible to any site member."
+
+#: buddypress/groups/single/admin.php:129
+msgid "This is a private group"
+msgstr "This is a private group"
+
+#: buddypress/groups/single/admin.php:131
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Only users who request membership and are accepted can join the group."
+
+#: buddypress/groups/single/admin.php:133
+#: buddypress/groups/single/admin.php:144
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Group content and activity will only be visible to members of the group."
+
+#: buddypress/groups/single/admin.php:140
+msgid "This is a hidden group"
+msgstr "This is a hidden group"
+
+#: buddypress/groups/single/admin.php:142
+msgid "Only users who are invited can join the group."
+msgstr "Only users who are invited can join the group."
+
+#: buddypress/groups/single/admin.php:143
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"This group will not be listed in the groups directory or search results."
+
+#: buddypress/groups/single/admin.php:151
+msgid "Group Invitations"
+msgstr "Group Invitations"
+
+#: buddypress/groups/single/admin.php:153
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Which members of this group are allowed to invite others?"
+
+#: buddypress/groups/single/admin.php:159
+msgid "All group members"
+msgstr "All group members"
+
+#: buddypress/groups/single/admin.php:165
+msgid "Group admins and mods only"
+msgstr "Group admins and mods only"
+
+#: buddypress/groups/single/admin.php:171
+msgid "Group admins only"
+msgstr "Group admins only"
+
+#: buddypress/groups/single/admin.php:196
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+
+#: buddypress/groups/single/admin.php:199
+msgid "Select an image"
+msgstr "Select an image"
+
+#: buddypress/groups/single/admin.php:202
+#: buddypress/members/single/profile/change-avatar.php:25
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: buddypress/groups/single/admin.php:208
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+
+#: buddypress/groups/single/admin.php:216
+#: buddypress/groups/single/admin.php:217
+msgid "Delete Group Profile Photo"
+msgstr "Delete Group Profile Photo"
+
+#: buddypress/groups/single/admin.php:236
+msgid "Crop Profile Photo"
+msgstr "Crop Profile Photo"
+
+#: buddypress/groups/single/admin.php:239
+msgid "Profile photo to crop"
+msgstr "Profile photo to crop"
+
+#: buddypress/groups/single/admin.php:243
+msgid "Profile photo preview"
+msgstr "Profile photo preview"
+
+#: buddypress/groups/single/admin.php:247
+#: buddypress/members/single/profile/change-avatar.php:46
+msgid "Crop Image"
+msgstr "Crop Image"
+
+#: buddypress/groups/single/admin.php:264
+msgid "Change Cover Image"
+msgstr "Change Cover Image"
+
+#: buddypress/groups/single/admin.php:275
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr "The Cover Image will be used to customize the header of your group."
+
+#: buddypress/groups/single/admin.php:303
+msgid "Administrators"
+msgstr "Administrators"
+
+#: buddypress/groups/single/admin.php:316
+#: buddypress/groups/single/admin.php:350
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Profile picture of %s"
+
+#: buddypress/groups/single/admin.php:323
+#: buddypress/groups/single/admin.php:359
+msgid "Demote to Member"
+msgstr "Demote to Member"
+
+#: buddypress/groups/single/admin.php:338
+msgid "Moderators"
+msgstr "Moderators"
+
+#: buddypress/groups/single/admin.php:357
+#: buddypress/groups/single/admin.php:422
+msgid "Promote to Admin"
+msgstr "Promote to Admin"
+
+#: buddypress/groups/single/admin.php:373
+msgid "Members"
+msgstr "Members"
+
+#: buddypress/groups/single/admin.php:403
+msgid "(banned)"
+msgstr "(banned)"
+
+#: buddypress/groups/single/admin.php:411
+msgid "Unban this member"
+msgstr "Unban this member"
+
+#: buddypress/groups/single/admin.php:411
+msgid "Remove Ban"
+msgstr "Remove Ban"
+
+#: buddypress/groups/single/admin.php:416
+msgid "Kick and ban this member"
+msgstr "Kick and ban this member"
+
+#: buddypress/groups/single/admin.php:416
+msgid "Kick &amp; Ban"
+msgstr "Kick &amp; Ban"
+
+#: buddypress/groups/single/admin.php:419
+msgid "Promote to Mod"
+msgstr "Promote to Mod"
+
+#: buddypress/groups/single/admin.php:427
+msgid "Remove this member"
+msgstr "Remove this member"
+
+#: buddypress/groups/single/admin.php:427
+msgid "Remove from group"
+msgstr "Remove from group"
+
+#: buddypress/groups/single/admin.php:448
+msgid "This group has no members."
+msgstr "This group has no members."
+
+#: buddypress/groups/single/admin.php:519
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+
+#: buddypress/groups/single/admin.php:524
+msgid "I understand the consequences of deleting this group."
+msgstr "I understand the consequences of deleting this group."
+
+#: buddypress/groups/single/admin.php:537
+msgid "Delete Group"
+msgstr "Delete Group"
+
+#: buddypress/groups/single/cover-image-header.php:82
+#: buddypress/groups/single/group-header.php:71
+msgid "Group Admins"
+msgstr "Group Admins"
+
+#: buddypress/groups/single/cover-image-header.php:104
+#: buddypress/groups/single/group-header.php:93
+msgid "Group Mods"
+msgstr "Group Mods"
+
+#: buddypress/groups/single/forum.php:24
+msgid "New Topic"
+msgstr "New Topic"
+
+#: buddypress/groups/single/forum.php:32
+#: buddypress/groups/single/forum/edit.php:23
+#: buddypress/groups/single/forum/topic.php:24
+msgid "Forum Directory"
+msgstr "Forum Directory"
+
+#: buddypress/groups/single/forum.php:94
+msgid "You will auto join this group when you start a new topic."
+msgstr "You will auto join this group when you start a new topic."
+
+#: buddypress/groups/single/forum.php:98
+msgid "Post a New Topic:"
+msgstr "Post a New Topic:"
+
+#: buddypress/groups/single/forum/edit.php:32
+msgid "Edit:"
+msgstr "Edit:"
+
+#: buddypress/groups/single/forum/edit.php:129
+msgid "This topic does not exist."
+msgstr "This topic does not exist."
+
+#: buddypress/groups/single/forum/topic.php:16
+msgid "New Reply"
+msgstr "New Reply"
+
+#: buddypress/groups/single/forum/topic.php:39
+msgid "Topic tags:"
+msgstr "Topic tags:"
+
+#: buddypress/groups/single/forum/topic.php:102
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s said %2$s:"
+
+#: buddypress/groups/single/forum/topic.php:154
+msgid "There are no posts for this topic."
+msgstr "There are no posts for this topic."
+
+#: buddypress/groups/single/forum/topic.php:169
+msgid "You will auto join this group when you reply to this topic."
+msgstr "You will auto join this group when you reply to this topic."
+
+#: buddypress/groups/single/forum/topic.php:181
+msgid "Add a reply:"
+msgstr "Add a reply:"
+
+#: buddypress/groups/single/forum/topic.php:186
+msgid "Post Reply"
+msgstr "Post Reply"
+
+#: buddypress/groups/single/forum/topic.php:204
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "This topic is closed, replies are no longer accepted."
+
+#: buddypress/groups/single/invites-loop.php:66
+msgid "Remove Invite"
+msgstr "Remove Invite"
+
+#: buddypress/groups/single/invites-loop.php:102
+msgid "Select friends to invite."
+msgstr "Select friends to invite."
+
+#: buddypress/groups/single/members.php:133
+msgid "No members were found."
+msgstr "No members were found."
+
+#: buddypress/groups/single/request-membership.php:11
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "You are requesting to become a member of the group '%s'."
+
+#: buddypress/groups/single/request-membership.php:14
+msgid "Comments (optional)"
+msgstr "Comments (optional)"
+
+#: buddypress/groups/single/request-membership.php:26
+msgid "Send Request"
+msgstr "Send Request"
+
+#: buddypress/groups/single/requests-loop.php:38
+#: buddypress/members/single/friends/requests.php:51
+#: buddypress/members/single/groups/invites.php:39
+msgid "Accept"
+msgstr "Accept"
+
+#: buddypress/groups/single/requests-loop.php:40
+#: buddypress/members/single/friends/requests.php:52
+#: buddypress/members/single/groups/invites.php:40
+msgid "Reject"
+msgstr "Reject"
+
+#: buddypress/groups/single/requests-loop.php:76
+msgid "There are no pending membership requests."
+msgstr "There are no pending membership requests."
+
+#: buddypress/groups/single/send-invites.php:22
+msgid "Send Invites"
+msgstr "Send Invites"
+
+#: buddypress/groups/single/send-invites.php:37
+msgid "Group invitations can only be extended to friends."
+msgstr "Group invitations can only be extended to friends."
+
+#: buddypress/groups/single/send-invites.php:38
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+
+#: buddypress/groups/single/send-invites.php:46
+msgid "All of your friends already belong to this group."
+msgstr "All of your friends already belong to this group."
+
+#: buddypress/members/activate.php:51
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+
+#. translators: %s: login url
+#: buddypress/members/activate.php:56
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+
+#: buddypress/members/activate.php:63
+msgid "Please provide a valid activation key."
+msgstr "Please provide a valid activation key."
+
+#: buddypress/members/activate.php:67
+msgid "Activation Key:"
+msgstr "Activation Key:"
+
+#: buddypress/members/index.php:91
+msgid "Members directory main navigation"
+msgstr "Members directory main navigation"
+
+#: buddypress/members/index.php:111
+msgid "Members directory secondary navigation"
+msgstr "Members directory secondary navigation"
+
+#: buddypress/members/index.php:126 buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Newest Registered"
+
+#. translators: accessibility text
+#: buddypress/members/index.php:147
+msgid "Members directory"
+msgstr "Members directory"
+
+#: buddypress/members/members-loop.php:139
+msgid "Sorry, no members were found."
+msgstr "Sorry, no members were found."
+
+#: buddypress/members/register.php:17
+msgid "Create an Account"
+msgstr "Create an Account"
+
+#: buddypress/members/register.php:53
+msgid "User registration is currently not allowed."
+msgstr "User registration is currently not allowed."
+
+#: buddypress/members/register.php:75
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+
+#: buddypress/members/register.php:90
+msgid "Account Details"
+msgstr "Account Details"
+
+#: buddypress/members/register.php:92 edd_templates/download-modal.php:64
+#: edd_templates/download-modal.php:69 edd_templates/download-redirect.php:69
+#: edd_templates/download-redirect.php:71
+msgid "Username"
+msgstr "Username"
+
+#: buddypress/members/register.php:92 buddypress/members/register.php:103
+#: buddypress/members/register.php:114 buddypress/members/register.php:126
+#: buddypress/members/register.php:288 buddypress/members/register.php:304
+msgid "(required)"
+msgstr "(required)"
+
+#: buddypress/members/register.php:103 edd_templates/download-modal.php:40
+#: edd_templates/download-redirect.php:43
+#: edd_templates/download-redirect.php:44
+msgid "Email Address"
+msgstr "Email Address"
+
+#: buddypress/members/register.php:114
+msgid "Choose a Password"
+msgstr "Choose a Password"
+
+#: buddypress/members/register.php:126 edd_templates/download-modal.php:84
+#: edd_templates/download-redirect.php:89
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: buddypress/members/register.php:172
+msgid "Profile Details"
+msgstr "Profile Details"
+
+#. translators: %s: level of visibility
+#: buddypress/members/register.php:198 buddypress/members/register.php:220
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr "This field can be seen by: %s"
+
+#: buddypress/members/register.php:203
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr "Change"
+
+#: buddypress/members/register.php:208
+#: buddypress/members/single/profile/edit.php:55
+msgid "Who can see this field?"
+msgstr "Who can see this field?"
+
+#: buddypress/members/register.php:213
+#: buddypress/members/single/profile/edit.php:60
+msgid "Close"
+msgstr "Close"
+
+#: buddypress/members/register.php:282
+msgid "Blog Details"
+msgstr "Blog Details"
+
+#: buddypress/members/register.php:284
+msgid "Yes, I'd like to create a new site"
+msgstr "Yes, I'd like to create a new site"
+
+#: buddypress/members/register.php:288
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: buddypress/members/register.php:304
+msgid "Site Title"
+msgstr "Site Title"
+
+#: buddypress/members/register.php:316
+msgid ""
+"Privacy: I would like my site to appear in search engines, and in public "
+"listings around this network."
+msgstr ""
+"Privacy: I would like my site to appear in search engines, and in public "
+"listings around this network."
+
+#: buddypress/members/register.php:326
+msgid "Yes"
+msgstr "Yes"
+
+#: buddypress/members/register.php:327
+msgid "No"
+msgstr "No"
+
+#: buddypress/members/register.php:364
+msgid "Complete Sign Up"
+msgstr "Complete Sign Up"
+
+#: buddypress/members/register.php:401
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+
+#: buddypress/members/register.php:403
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+
+#: buddypress/members/single/friends/requests.php:96
+msgid "You have no pending friendship requests."
+msgstr "You have no pending friendship requests."
+
+#: buddypress/members/single/groups/invites.php:23
+#, php-format
+msgctxt "Group member count"
+msgid "%d member"
+msgid_plural "%d members"
+msgstr[0] "%d member"
+msgstr[1] "%d members"
+
+#: buddypress/members/single/groups/invites.php:60
+msgid "You have no outstanding group invites."
+msgstr "You have no outstanding group invites."
+
+#: buddypress/members/single/messages/compose.php:12
+msgid "Send To (Username or Friend's Name)"
+msgstr "Send To (Username or Friend's Name)"
+
+#: buddypress/members/single/messages/compose.php:21
+msgid "This is a notice to all users."
+msgstr "This is a notice to all users."
+
+#: buddypress/members/single/messages/compose.php:24
+#: buddypress/members/single/messages/messages-loop.php:54
+msgid "Subject"
+msgstr "Subject"
+
+#: buddypress/members/single/messages/compose.php:27
+msgid "Message"
+msgstr "Message"
+
+#: buddypress/members/single/messages/compose.php:42
+msgid "Send Message"
+msgstr "Send Message"
+
+#: buddypress/members/single/messages/messages-loop.php:53
+msgid "From"
+msgstr "From"
+
+#: buddypress/members/single/messages/messages-loop.php:69
+msgid "Star"
+msgstr "Star"
+
+#: buddypress/members/single/messages/messages-loop.php:72
+#: buddypress/members/single/notifications/notifications-loop.php:9
+#: edd_templates/shortcode-all-access-passes.php:32
+#: edd_templates/shortcode-subscriptions.php:40
+msgid "Actions"
+msgstr "Actions"
+
+#: buddypress/members/single/messages/messages-loop.php:89
+msgid "From:"
+msgstr "From:"
+
+#: buddypress/members/single/messages/messages-loop.php:96
+msgid "To:"
+msgstr "To:"
+
+#: buddypress/members/single/messages/messages-loop.php:103
+msgid "View Message"
+msgstr "View Message"
+
+#: buddypress/members/single/messages/messages-loop.php:127
+msgid "Read"
+msgstr "Read"
+
+#: buddypress/members/single/messages/messages-loop.php:129
+msgid "Unread"
+msgstr "Unread"
+
+#: buddypress/members/single/messages/messages-loop.php:170
+msgid "Sorry, no messages were found."
+msgstr "Sorry, no messages were found."
+
+#: buddypress/members/single/messages/notices-loop.php:57
+msgid "Sent:"
+msgstr "Sent:"
+
+#: buddypress/members/single/messages/notices-loop.php:71
+msgid "Delete Message"
+msgstr "Delete Message"
+
+#: buddypress/members/single/messages/notices-loop.php:89
+msgid "Sorry, no notices were found."
+msgstr "Sorry, no notices were found."
+
+#: buddypress/members/single/messages/single.php:21
+msgid "You are alone in this conversation."
+msgstr "You are alone in this conversation."
+
+#: buddypress/members/single/messages/single.php:25
+#, php-format
+msgid "Conversation between %s recipients."
+msgstr "Conversation between %s recipients."
+
+#: buddypress/members/single/messages/single.php:29
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "Conversation between %s and you."
+
+#: buddypress/members/single/messages/single.php:35
+msgid "Delete Conversation"
+msgstr "Delete Conversation"
+
+#: buddypress/members/single/messages/single.php:139
+msgid "Send a Reply"
+msgstr "Send a Reply"
+
+#: buddypress/members/single/messages/single.php:172
+msgid "Send Reply"
+msgstr "Send Reply"
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr "You have no unread notifications."
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr "This member has no unread notifications."
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr "You have no notifications."
+
+#: buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr "This member has no notifications."
+
+#: buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Select all"
+msgstr "Select all"
+
+#: buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr "Notification"
+
+#: buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr "Date Received"
+
+#: buddypress/members/single/profile/change-avatar.php:1
+msgid "Change Profile Photo"
+msgstr "Change Profile Photo"
+
+#: buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+
+#: buddypress/members/single/profile/change-avatar.php:21
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+
+#: buddypress/members/single/profile/change-avatar.php:30
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+
+#: buddypress/members/single/profile/change-avatar.php:31
+msgid "Delete Profile Photo"
+msgstr "Delete Profile Photo"
+
+#: buddypress/members/single/profile/change-avatar.php:31
+msgid "Delete My Profile Photo"
+msgstr "Delete My Profile Photo"
+
+#: buddypress/members/single/profile/change-avatar.php:38
+msgid "Crop Your New Profile Photo"
+msgstr "Crop Your New Profile Photo"
+
+#: buddypress/members/single/profile/change-avatar.php:40
+msgid "Profile Photo to crop"
+msgstr "Profile Photo to crop"
+
+#: buddypress/members/single/profile/change-avatar.php:43
+msgid "Profile Photo preview"
+msgstr "Profile Photo preview"
+
+#: buddypress/members/single/profile/change-avatar.php:70
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+
+#: buddypress/members/single/profile/edit.php:20
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr "Editing '%s' Profile Group"
+
+#: buddypress/members/single/profile/edit.php:50
+#: buddypress/members/single/profile/edit.php:64
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+
+#: buddypress/members/single/profile/edit.php:50
+msgid "Change"
+msgstr "Change"
+
+#: buddypress/members/single/profile/profile-wp.php:29
+#, php-format
+msgid "%s's Profile"
+msgstr "%s's Profile"
+
+#: buddypress/members/single/profile/profile-wp.php:36 comments.php:76
+#: edd_templates/shortcode-receipt.php:138
+msgid "Name"
+msgstr "Name"
+
+#: buddypress/members/single/profile/profile-wp.php:45
+msgid "About Me"
+msgstr "About Me"
+
+#: buddypress/members/single/profile/profile-wp.php:54 comments.php:106
+msgid "Website"
+msgstr "Website"
+
+#: buddypress/members/single/profile/profile-wp.php:63
+msgid "Jabber"
+msgstr "Jabber"
+
+#: buddypress/members/single/profile/profile-wp.php:72
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: buddypress/members/single/profile/profile-wp.php:81
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: buddypress/members/single/settings/capabilities.php:26
+msgid "This user is a spammer."
+msgstr "This user is a spammer."
+
+#: buddypress/members/single/settings/capabilities.php:30
+msgid "Save"
+msgstr "Save"
+
+#: buddypress/members/single/settings/data.php:13
+msgid "Data Export"
+msgstr "Data Export"
+
+#: buddypress/members/single/settings/data.php:23
+msgid "Your request for an export of personal data has been completed."
+msgstr "Your request for an export of personal data has been completed."
+
+#. translators: %s: expiration date
+#: buddypress/members/single/settings/data.php:27
+#, php-format
+msgid ""
+"You may download your personal data by clicking on the link below. For "
+"privacy and security, we will automatically delete the file on %s, so please "
+"download it before then."
+msgstr ""
+"You may download your personal data by clicking on the link below. For "
+"privacy and security, we will automatically delete the file on %s, so please "
+"download it before then."
+
+#: buddypress/members/single/settings/data.php:31
+msgid "Download personal data"
+msgstr "Download personal data"
+
+#: buddypress/members/single/settings/data.php:35
+msgid "Your previous request for an export of personal data has expired."
+msgstr "Your previous request for an export of personal data has expired."
+
+#: buddypress/members/single/settings/data.php:36
+msgid "Please click on the button below to make a new request."
+msgstr "Please click on the button below to make a new request."
+
+#: buddypress/members/single/settings/data.php:40
+msgid "Request new data export"
+msgstr "Request new data export"
+
+#. translators: %s: confirmation date
+#: buddypress/members/single/settings/data.php:50
+#, php-format
+msgid "You previously requested an export of your personal data on %s."
+msgstr "You previously requested an export of your personal data on %s."
+
+#: buddypress/members/single/settings/data.php:53
+msgid ""
+"You will receive a link to download your export via email once we are able "
+"to fulfill your request."
+msgstr ""
+"You will receive a link to download your export via email once we are able "
+"to fulfill your request."
+
+#: buddypress/members/single/settings/data.php:59
+msgid ""
+"You can request an export of your personal data, containing the following "
+"items if applicable:"
+msgstr ""
+"You can request an export of your personal data, containing the following "
+"items if applicable:"
+
+#: buddypress/members/single/settings/data.php:63
+msgid "If you want to make a request, please click on the button below:"
+msgstr "If you want to make a request, please click on the button below:"
+
+#: buddypress/members/single/settings/data.php:66
+msgid "Request personal data export"
+msgstr "Request personal data export"
+
+#. translators: accessibility text
+#: buddypress/members/single/settings/data.php:74
+msgid "Data Erase"
+msgstr "Data Erase"
+
+#: buddypress/members/single/settings/delete-account.php:17
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+
+#: buddypress/members/single/settings/delete-account.php:21
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+
+#: buddypress/members/single/settings/delete-account.php:40
+msgid "I understand the consequences."
+msgstr "I understand the consequences."
+
+#: buddypress/members/single/settings/delete-account.php:44
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#. translators: accessibility text
+#: buddypress/members/single/settings/general.php:15
+msgid "Account settings"
+msgstr "Account settings"
+
+#: buddypress/members/single/settings/general.php:22
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+
+#: buddypress/members/single/settings/general.php:23
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: buddypress/members/single/settings/general.php:27
+msgid "Account Email"
+msgstr "Account Email"
+
+#: buddypress/members/single/settings/general.php:30
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Change Password <span>(leave blank for no change)</span>"
+
+#: buddypress/members/single/settings/general.php:33
+msgid "Repeat New Password"
+msgstr "Repeat New Password"
+
+#. translators: accessibility text
+#: buddypress/members/single/settings/notifications.php:15
+msgid "Notification settings"
+msgstr "Notification settings"
+
+#: buddypress/members/single/settings/notifications.php:19
+msgid "Send an email notice when:"
+msgstr "Send an email notice when:"
+
+#. translators: accessibility text
+#: buddypress/members/single/settings/profile.php:19
+msgid "Profile visibility settings"
+msgstr "Profile visibility settings"
+
+#: buddypress/members/single/settings/profile.php:34
+msgid "Visibility"
+msgstr "Visibility"
+
+#: buddypress/members/single/settings/profile.php:68
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: checkout-template.php:94 content/content-full-width-blog.php:63
+#: content/content-single.php:69 narrow-page-template.php:89 page.php:122
+msgid "Pages:"
+msgstr "Pages:"
+
+#: checkout-template.php:98 narrow-page-template.php:93 page.php:126
+msgid "Page"
+msgstr "Page"
+
+#: comments.php:30 comments.php:48
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31 comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:32 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:66
+msgid "Share Your Valuable Opinions"
+msgstr "Share Your Valuable Opinions"
+
+#: comments.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: comments.php:68
+msgid "Cancel Reply"
+msgstr "Cancel Reply"
+
+#: comments.php:69
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:70
+msgid "Write Your Comment...."
+msgstr "Write Your Comment...."
+
+#: comments.php:71
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment"
+
+#: comments.php:78 comments.php:98
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:80
+msgid "Website (optional)"
+msgstr "Website (optional)"
+
+#: comments.php:83
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+
+#: comments.php:92 comments.php:94 edd_templates/wish-list-email-share.php:8
+#: edd_templates/wish-list-email-share.php:9
+msgid "Your Name"
+msgstr "Your Name"
+
+#: comments.php:100
+msgid "Your Email"
+msgstr "Your Email"
+
+#: comments.php:105
+msgid "Write a Comment"
+msgstr "Write a Comment"
+
+#: comments.php:111
+msgid "Let us know what you have to say:"
+msgstr "Let us know what you have to say:"
+
+#: comments.php:112
+msgid ""
+"Express your thoughts, idea or write a feedback by clicking here & start an "
+"awesome comment"
+msgstr ""
+"Express your thoughts, idea or write a feedback by clicking here & start an "
+"awesome comment"
+
+#: comments.php:115
+msgid "Please Post Your Comments & Reviews"
+msgstr "Please Post Your Comments & Reviews"
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: content/content-404-footer.php:13 content/content-post-footer.php:76
+msgid "Popular Blog Post"
+msgstr "Popular Blog Post"
+
+#: content/content-404-footer.php:23 content/content-product-footer.php:77
+msgid "Popular &amp; Trending "
+msgstr "Popular &amp; Trending "
+
+#: content/content-404-footer.php:29
+#: content/content-product-footer-prime.php:133
+#: content/content-product-footer.php:83
+msgid "Featured Products "
+msgstr "Featured Products "
+
+#: content/content-404-footer.php:86 content/content-audio-download.php:209
+#: content/content-post-footer.php:140
+#: content/content-product-footer-prime.php:67
+#: content/content-product-footer-prime.php:124
+#: content/content-product-footer-prime.php:176
+#: content/content-product-footer.php:67 content/content-product-footer.php:126
+#: includes/photo-template-bottom-part.php:319
+msgid "No posts were found."
+msgstr "No posts were found."
+
+#: content/content-archive-post-full.php:19 content/content-search-post.php:14
+msgid "View Post"
+msgstr "View Post"
+
+#: content/content-archive-post-grid.php:37
+#: content/content-author-download.php:290
+#: content/content-photo-download.php:184
+#: content/content-photo-download.php:320 content/content-product-list.php:142
+#: content/content-product-tag-list.php:140
+#: content/content-vendor-download.php:360
+#: edd_templates/shortcode-download.php:166 includes/blog_content_author.php:3
+#: includes/extras/elementor-author.php:6 includes/product-meta.php:71
+#: includes/product_content_author.php:5
+#: library/product-hover-style-three.php:21
+msgid "by"
+msgstr "by"
+
+#: content/content-archive-post-grid.php:39
+#: content/content-author-download.php:292
+#: content/content-photo-download.php:188
+#: content/content-photo-download.php:207
+#: content/content-photo-download.php:324 content/content-product-list.php:148
+#: content/content-product-tag-list.php:146
+#: content/content-vendor-download.php:362
+#: edd_templates/shortcode-download.php:172
+#: includes/blog_content_category.php:6 includes/product-meta.php:77
+#: includes/product_content_category.php:7
+#: library/product-hover-style-three.php:21
+msgid "in"
+msgstr "in"
+
+#: content/content-audio-download.php:39
+msgid "Please active wave player from theme option"
+msgstr "Please active wave player from theme option"
+
+#: content/content-audio-download.php:54
+msgid "Releted Product "
+msgstr "Releted Product "
+
+#: content/content-audio-download.php:181 content/content-author-grid.php:169
+#: content/content-author-justified.php:150
+#: content/content-product-artist-grid.php:248
+#: content/content-product-grid.php:205
+#: content/content-product-justified.php:131
+#: content/content-product-masonary.php:131
+#: content/content-product-tag-grid.php:205
+#: content/content-product-tag-justified.php:119
+#: content/content-product-tag-masonary.php:128
+#: content/content-search-grid.php:153 content/content-search-justified.php:72
+#: content/content-search-masonary.php:85 content/content-vendor-grid.php:186
+#: content/content-vendor-justified.php:160
+#: content/content-vendor-masonry.php:165
+#: edd_templates/checkout_recommendations.php:119
+#: edd_templates/shortcode-content-image.php:83
+#: edd_templates/shortcode-download.php:100
+#: edd_templates/shortcode-download.php:251
+#: edd_templates/single_recommendations.php:110
+#: includes/photo-template-bottom-part.php:163
+#: includes/photo-template-bottom-part.php:222
+#: includes/photo-template-bottom-part.php:287
+msgid "View Details"
+msgstr "View Details"
+
+#: content/content-author-blog.php:26 content/content.php:35 index.php:100
+msgid "Showing"
+msgstr "Showing"
+
+#: content/content-author-blog.php:26 content/content.php:35 index.php:100
+msgid "of"
+msgstr "of"
+
+#: content/content-author-blog.php:26 content/content.php:35 index.php:100
+msgid "Blog Posts"
+msgstr "Blog Posts"
+
+#: content/content-download-archive.php:35
+msgid "Free"
+msgstr "Free"
+
+#: content/content-download.php:38 content/content-full-download.php:39
+#: content/content-narrow-template.php:39 content/content-prime-download.php:37
+msgid "Choose Your Desired Option(s)"
+msgstr "Choose Your Desired Option(s)"
+
+#: content/content-full-width-blog.php:42 content/content-single.php:48
+msgid "Categories:"
+msgstr "Categories:"
+
+#: content/content-full-width-blog.php:69 content/content-single.php:75
+msgid "Next page"
+msgstr "Next page"
+
+#: content/content-full-width-blog.php:70 content/content-single.php:76
+msgid "Previous page"
+msgstr "Previous page"
+
+#: content/content-items/auhor-download-follower.php:22
+#: content/content-items/vendor-product-follower.php:32
+#: templates/user-dashboard.php:22 templates/user-dashboard.php:55
+msgid "Followers"
+msgstr "Followers"
+
+#: content/content-items/author-download-following.php:19
+#: content/content-items/vendor-product-following.php:29
+#: templates/user-dashboard.php:24 templates/user-dashboard.php:57
+msgid "Following"
+msgstr "Following"
+
+#: content/content-items/author-download-page-view.php:37
+#: content/content-items/vendor-product-page-view.php:44
+#: fes_templates/frontend-dashboard.php:51
+msgid "Page Views"
+msgstr "Page Views"
+
+#: content/content-items/author-download-product-count.php:15
+#: content/content-items/vendor-product-count.php:27
+#: edd_templates/shortcode-receipt.php:134 sitemap.php:94
+msgid "Products"
+msgstr "Products"
+
+#: content/content-items/vendor-product-sales.php:29
+msgid "Lifetime Sales"
+msgstr "Lifetime Sales"
+
+#: content/content-none-category.php:10 content/content-none.php:12
+#: fes-vendor-list.php:332
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content/content-none-category.php:14
+msgid "This Category is empty"
+msgstr "This Category is empty"
+
+#: content/content-none-category.php:19
+msgid "Please add some products on it !"
+msgstr "Please add some products on it !"
+
+#: content/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: content/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: content/content-photo-download.php:16 content/content-product-list.php:99
+#: content/content-product-tag-list.php:98
+#: edd_templates/shortcode-download.php:130 includes/product-meta.php:65
+#: includes/product-meta.php:69 includes/product_content_category.php:3
+#: library/product-hover-style-three.php:7
+msgctxt ""
+msgid " , "
+msgstr " , "
+
+#: content/content-photo-download.php:189
+#: content/content-photo-download.php:208
+#: content/content-photo-download.php:325 includes/blog_content_date.php:1
+#: includes/product_content_date.php:4
+msgid "on"
+msgstr "on"
+
+#: content/content-photo-download.php:218 content/content-product-list.php:157
+#: content/content-product-tag-list.php:155
+#: edd_templates/shortcode-download.php:181
+#: includes/product-additional-meta.php:23 includes/product-meta.php:100
+#: includes/product-meta.php:125 includes/products/information-price.php:17
+msgid "$"
+msgstr "$"
+
+#: content/content-photo-download.php:234
+#: content/content-photo-download.php:239
+#: content/content-photo-download.php:248
+#: includes/product-bottom-buttons.php:32
+#: includes/product-bottom-buttons.php:36
+#: includes/product-bottom-buttons.php:52
+#: includes/product-bottom-buttons.php:63
+#: includes/product_content_button.php:25
+#: includes/product_content_button.php:29
+#: includes/product_content_button.php:41
+#: includes/product_content_button.php:62
+#: includes/single-product-layout-prime.php:74
+msgid "Purchase"
+msgstr "Purchase"
+
+#: content/content-photo-download.php:262
+#: includes/single-product-layout-prime.php:115
+msgid "Add to Wishlist"
+msgstr "Add to Wishlist"
+
+#: content/content-photo-download.php:306 fes-vendor-list.php:266
+msgid "View Portfolio"
+msgstr "View Portfolio"
+
+#: content/content-photo-download.php:397
+msgid "Choose Your Desired Option(s) & Add Wishlist"
+msgstr "Choose Your Desired Option(s) & Add Wishlist"
+
+#: content/content-post-footer.php:13
+msgid "Related Blog Post"
+msgstr "Related Blog Post"
+
+#: content/content-post-footer.php:56
+msgid "Views"
+msgstr "Views"
+
+#: content/content-post-footer.php:88
+msgid "Featured Products"
+msgstr "Featured Products"
+
+#: content/content-product-footer-prime.php:13
+#: content/content-product-footer.php:13
+msgid "Related Products"
+msgstr "Related Products"
+
+#: content/content-product-footer-prime.php:77
+msgid "Same Contributor"
+msgstr "Same Contributor"
+
+#: content/content-product-list.php:192
+#: content/content-product-tag-list.php:190
+#: edd_templates/shortcode-download.php:216
+msgid "Preview"
+msgstr "Preview"
+
+#: content/content-search-grid.php:76
+#: edd_templates/checkout_recommendations.php:38
+#: edd_templates/shortcode-download.php:34
+#: edd_templates/single_recommendations.php:29
+msgid "New"
+msgstr "New"
+
+#: content/content-search-grid.php:185 content/content-search-justified.php:101
+#: content/content-search-masonary.php:119
+msgid "No product found"
+msgstr "No product found"
+
+#: content/content-vendor-download.php:61
+msgid "Follow"
+msgstr "Follow"
+
+#: content/content-vendor-download.php:65
+msgid "Contact"
+msgstr "Contact"
+
+#: content/content-vendor-download.php:163
+#, php-format
+msgctxt "FES uppercase singular setting for vendor"
+msgid "%s Since"
+msgstr "%s Since"
+
+#: content/content-vendor-download.php:194
+msgid "Contact with this Author"
+msgstr "Contact with this Author"
+
+#: content/content-vendor-download.php:257
+msgid "Select category"
+msgstr "Select category"
+
+#: content/content-vendor-download.php:314
+msgid "Article By"
+msgstr "Article By"
+
+#: content/vendor-404.php:10
+msgid "Something Went Wrong!!! May be you are not a vendor."
+msgstr "Something Went Wrong!!! May be you are not a vendor."
+
+#: edd_templates/checkout_recommendations.php:18
+msgid "this item"
+msgstr "this item"
+
+#: edd_templates/checkout_recommendations.php:19
+msgid "these items"
+msgstr "these items"
+
+#: edd_templates/checkout_recommendations.php:23
+#: edd_templates/single_recommendations.php:14
+#, php-format
+msgid "Users who purchased %s, also purchased:"
+msgstr "Users who purchased %s, also purchased:"
+
+#: edd_templates/download-modal.php:23 edd_templates/download-redirect.php:35
+msgid "Download Now"
+msgstr "Download Now"
+
+#: edd_templates/download-modal.php:46 edd_templates/download-redirect.php:49
+#: edd_templates/download-redirect.php:50
+#: edd_templates/shortcode-profile-editor.php:39
+msgid "First Name"
+msgstr "First Name"
+
+#: edd_templates/download-modal.php:52 edd_templates/download-redirect.php:54
+#: edd_templates/download-redirect.php:55
+#: edd_templates/shortcode-profile-editor.php:43
+msgid "Last Name"
+msgstr "Last Name"
+
+#: edd_templates/download-modal.php:74 edd_templates/download-redirect.php:79
+#: edd_templates/shortcode-profile-editor.php:198
+msgid "Password"
+msgstr "Password"
+
+#: edd_templates/download-modal.php:101 edd_templates/download-redirect.php:102
+msgid "Subscribe to our newsletter"
+msgstr "Subscribe to our newsletter"
+
+#: edd_templates/download-modal.php:114 edd_templates/download-redirect.php:114
+#, php-format
+msgid ""
+"Agree to the <a href=\"%s\" target=\"_blank\" rel=\"_noopener\">Privacy "
+"Policy</a>"
+msgstr ""
+"Agree to the <a href=\"%s\" target=\"_blank\" rel=\"_noopener\">Privacy "
+"Policy</a>"
+
+#: edd_templates/download-modal.php:155 edd_templates/download-redirect.php:165
+msgid "Error:"
+msgstr "Error:"
+
+#: edd_templates/download-modal.php:213 edd_templates/download-redirect.php:190
+msgid "No thanks, proceed to download"
+msgstr "No thanks, proceed to download"
+
+#: edd_templates/download-modal.php:225
+msgctxt "close button for download modal"
+msgid "close"
+msgstr "close"
+
+#: edd_templates/edd-all-access-view-single-pass.php:19
+msgid "You do not have permimssion to view this All Access pass."
+msgstr "You do not have permimssion to view this All Access pass."
+
+#: edd_templates/edd-all-access-view-single-pass.php:33
+msgid "Nothing found for that URL"
+msgstr "Nothing found for that URL"
+
+#: edd_templates/edd-all-access-view-single-pass.php:39
+#: edd_templates/edd-all-access-view-single-pass.php:430
+#: edd_templates/shortcode-all-access-passes.php:28
+msgid "Product"
+msgstr "Product"
+
+#: edd_templates/edd-all-access-view-single-pass.php:47
+msgid "Details"
+msgstr "Details"
+
+#: edd_templates/edd-all-access-view-single-pass.php:48
+msgid "Value"
+msgstr "Value"
+
+#: edd_templates/edd-all-access-view-single-pass.php:61
+msgid "Start Date:"
+msgstr "Start Date:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:74
+msgid "Upgraded Date:"
+msgstr "Upgraded Date:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:76
+msgid "Expiration Date:"
+msgstr "Expiration Date:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:94
+#: edd_templates/shortcode-all-access-passes.php:66
+msgid "Never Expires"
+msgstr "Never Expires"
+
+#: edd_templates/edd-all-access-view-single-pass.php:110
+msgid "Upcoming Access Periods:"
+msgstr "Upcoming Access Periods:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:118
+msgid ""
+"You have %i renewal payments but your current pass is set to never expire."
+msgstr ""
+"You have %i renewal payments but your current pass is set to never expire."
+
+#: edd_templates/edd-all-access-view-single-pass.php:132
+#: edd_templates/shortcode-all-access-passes.php:30
+msgid "Start Date"
+msgstr "Start Date"
+
+#: edd_templates/edd-all-access-view-single-pass.php:135
+#: edd_templates/shortcode-all-access-passes.php:31
+msgid "Expiration Date"
+msgstr "Expiration Date"
+
+#: edd_templates/edd-all-access-view-single-pass.php:155
+msgid "Status:"
+msgstr "Status:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:184
+#: edd_templates/edd-all-access-view-single-pass.php:208
+msgid "(View Current)"
+msgstr "(View Current)"
+
+#: edd_templates/edd-all-access-view-single-pass.php:235
+#: edd_templates/shortcode-subscriptions.php:77
+msgid "Renew"
+msgstr "Renew"
+
+#: edd_templates/edd-all-access-view-single-pass.php:251
+msgid "Access To:"
+msgstr "Access To:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:261
+msgid "All Products"
+msgstr "All Products"
+
+#: edd_templates/edd-all-access-view-single-pass.php:281
+msgid "All Access Duration:"
+msgstr "All Access Duration:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:289
+msgid "Included Price Variations:"
+msgstr "Included Price Variations:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:295
+msgid "All price variations included."
+msgstr "All price variations included."
+
+#: edd_templates/edd-all-access-view-single-pass.php:300
+msgid "th Price Variation from each product"
+msgstr "th Price Variation from each product"
+
+#: edd_templates/edd-all-access-view-single-pass.php:301
+msgid "st Price Variation from each product"
+msgstr "st Price Variation from each product"
+
+#: edd_templates/edd-all-access-view-single-pass.php:302
+msgid "nd Price Variation from each product"
+msgstr "nd Price Variation from each product"
+
+#: edd_templates/edd-all-access-view-single-pass.php:303
+msgid "rd Price Variation from each product"
+msgstr "rd Price Variation from each product"
+
+#: edd_templates/edd-all-access-view-single-pass.php:315
+msgid "Download Limit:"
+msgstr "Download Limit:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:325
+msgid "Downloads Used:"
+msgstr "Downloads Used:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:333
+msgid "Downloads Left:"
+msgstr "Downloads Left:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:341
+msgid "Current Download Period started at:"
+msgstr "Current Download Period started at:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:349
+msgid "Next Download Period begins at:"
+msgstr "Next Download Period begins at:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:357
+msgid "Current Time (on server):"
+msgstr "Current Time (on server):"
+
+#: edd_templates/edd-all-access-view-single-pass.php:424
+msgid "Files downloaded in this period:"
+msgstr "Files downloaded in this period:"
+
+#: edd_templates/edd-all-access-view-single-pass.php:429
+msgid "Downloaded Date"
+msgstr "Downloaded Date"
+
+#: edd_templates/edd-all-access-view-single-pass.php:507
+msgid "Previous Page"
+msgstr "Previous Page"
+
+#: edd_templates/edd-all-access-view-single-pass.php:512
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s of %2$s"
+
+#: edd_templates/edd-all-access-view-single-pass.php:518
+msgid "Next Page"
+msgstr "Next Page"
+
+#: edd_templates/emails/footer-mayosis-simple.php:54
+msgid "Our mailing address is: "
+msgstr "Our mailing address is: "
+
+#: edd_templates/history-downloads.php:3
+msgid "Your account has been successfully verified!"
+msgstr "Your account has been successfully verified!"
+
+#: edd_templates/history-downloads.php:17
+msgid "Product Name"
+msgstr "Product Name"
+
+#: edd_templates/history-downloads.php:19
+#: edd_templates/shortcode-receipt.php:143
+msgid "Files"
+msgstr "Files"
+
+#: edd_templates/history-downloads.php:66
+msgid "Download -"
+msgstr "Download -"
+
+#: edd_templates/history-downloads.php:79
+#, php-format
+msgid "Payment status is %s"
+msgstr "Payment status is %s"
+
+#: edd_templates/history-downloads.php:106
+msgid "You have not purchased any downloads"
+msgstr "You have not purchased any downloads"
+
+#: edd_templates/shortcode-all-access-passes.php:79
+msgid "View Full Details"
+msgstr "View Full Details"
+
+#: edd_templates/shortcode-all-access-passes.php:91
+msgid "You have not made any of this type of purchase."
+msgstr "You have not made any of this type of purchase."
+
+#: edd_templates/shortcode-login.php:24
+msgid "Remember Me"
+msgstr "Remember Me"
+
+#: edd_templates/shortcode-login.php:28
+msgid "Lost Password?"
+msgstr "Lost Password?"
+
+#: edd_templates/shortcode-login.php:35
+#: includes/header/header-elements/header-account.php:122
+#: includes/header/header-elements/header-login.php:59
+#: includes/top-header-cart.php:26
+msgid "Login"
+msgstr "Login"
+
+#: edd_templates/shortcode-login.php:45
+msgid "You are already logged in"
+msgstr "You are already logged in"
+
+#: edd_templates/shortcode-profile-editor.php:18
+msgid "Saved cart"
+msgstr "Saved cart"
+
+#: edd_templates/shortcode-profile-editor.php:18
+#, php-format
+msgid "You have a saved cart, <a href=\"%s\">click here</a> to restore it."
+msgstr "You have a saved cart, <a href=\"%s\">click here</a> to restore it."
+
+#: edd_templates/shortcode-profile-editor.php:22
+msgid "Your profile has been edited successfully."
+msgstr "Your profile has been edited successfully."
+
+#: edd_templates/shortcode-profile-editor.php:35
+msgid "Personal Information"
+msgstr "Personal Information"
+
+#: edd_templates/shortcode-profile-editor.php:49
+msgid "Display Name"
+msgstr "Display Name"
+
+#: edd_templates/shortcode-profile-editor.php:69
+msgid "Primary Email Address"
+msgstr "Primary Email Address"
+
+#: edd_templates/shortcode-profile-editor.php:107
+msgid "Additional Email Addresses"
+msgstr "Additional Email Addresses"
+
+#: edd_templates/shortcode-profile-editor.php:126
+msgid "Remove"
+msgstr "Remove"
+
+#: edd_templates/shortcode-profile-editor.php:146
+msgid "Billing Information"
+msgstr "Billing Information"
+
+#: edd_templates/shortcode-profile-editor.php:150
+msgid "Line 1"
+msgstr "Line 1"
+
+#: edd_templates/shortcode-profile-editor.php:154
+msgid "Line 2"
+msgstr "Line 2"
+
+#: edd_templates/shortcode-profile-editor.php:159
+msgid "City"
+msgstr "City"
+
+#: edd_templates/shortcode-profile-editor.php:165
+msgid "Zip / Postal Code"
+msgstr "Zip / Postal Code"
+
+#: edd_templates/shortcode-profile-editor.php:169
+msgid "Country"
+msgstr "Country"
+
+#: edd_templates/shortcode-profile-editor.php:177
+msgid "State / Province"
+msgstr "State / Province"
+
+#: edd_templates/shortcode-profile-editor.php:202
+msgid "New Password"
+msgstr "New Password"
+
+#: edd_templates/shortcode-profile-editor.php:208
+msgid "Re-enter Password"
+msgstr "Re-enter Password"
+
+#: edd_templates/shortcode-profile-editor.php:235
+msgid "You need to login to edit your profile."
+msgstr "You need to login to edit your profile."
+
+#: edd_templates/shortcode-receipt.php:12
+msgid "The specified receipt ID appears to be invalid"
+msgstr "The specified receipt ID appears to be invalid"
+
+#: edd_templates/shortcode-receipt.php:28
+msgid "Thank You For Your Purchase!"
+msgstr "Thank You For Your Purchase!"
+
+#: edd_templates/shortcode-receipt.php:36
+msgid "Payment Information"
+msgstr "Payment Information"
+
+#: edd_templates/shortcode-receipt.php:44
+msgid "Payment"
+msgstr "Payment"
+
+#: edd_templates/shortcode-receipt.php:53
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: edd_templates/shortcode-receipt.php:59
+msgid "Payment Key"
+msgstr "Payment Key"
+
+#: edd_templates/shortcode-receipt.php:66
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: edd_templates/shortcode-receipt.php:72
+msgid "Date"
+msgstr "Date"
+
+#: edd_templates/shortcode-receipt.php:79
+msgid "Fees"
+msgstr "Fees"
+
+#: edd_templates/shortcode-receipt.php:96
+msgid "Discount(s)"
+msgstr "Discount(s)"
+
+#: edd_templates/shortcode-receipt.php:103
+msgid "Tax"
+msgstr "Tax"
+
+#: edd_templates/shortcode-receipt.php:111
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: edd_templates/shortcode-receipt.php:118
+msgid "Total Price"
+msgstr "Total Price"
+
+#: edd_templates/shortcode-receipt.php:140 library/edd.php:355
+msgid "SKU"
+msgstr "SKU"
+
+#: edd_templates/shortcode-receipt.php:145
+msgid "Quantity"
+msgstr "Quantity"
+
+#: edd_templates/shortcode-receipt.php:147
+#: includes/products/information-price.php:15
+msgid "Price"
+msgstr "Price"
+
+#: edd_templates/shortcode-receipt.php:189
+#: edd_templates/shortcode-receipt.php:211
+msgid "Download"
+msgstr "Download"
+
+#: edd_templates/shortcode-receipt.php:217
+msgid "No downloadable files found for this bundled item."
+msgstr "No downloadable files found for this bundled item."
+
+#: edd_templates/shortcode-receipt.php:226
+msgid "No Files"
+msgstr "No Files"
+
+#: edd_templates/shortcode-register.php:44
+msgid "Register"
+msgstr "Register"
+
+#: edd_templates/shortcode-subscription-receipt.php:28
+msgid "Subscription Details"
+msgstr "Subscription Details"
+
+#: edd_templates/shortcode-subscription-receipt.php:36
+#: edd_templates/shortcode-subscriptions.php:35 templates/user-dashboard.php:30
+#: templates/user-dashboard.php:63 user-dashboard-template.php:111
+msgid "Subscription"
+msgstr "Subscription"
+
+#: edd_templates/shortcode-subscription-receipt.php:37
+#: edd_templates/shortcode-subscriptions.php:37
+msgid "Renewal Date"
+msgstr "Renewal Date"
+
+#: edd_templates/shortcode-subscription-receipt.php:38
+#: edd_templates/shortcode-subscriptions.php:38
+msgid "Initial Amount"
+msgstr "Initial Amount"
+
+#: edd_templates/shortcode-subscription-receipt.php:39
+#: edd_templates/shortcode-subscriptions.php:39
+msgid "Times Billed"
+msgstr "Times Billed"
+
+#: edd_templates/shortcode-subscription-receipt.php:48
+#: edd_templates/shortcode-subscriptions.php:46
+msgid "N/A"
+msgstr "N/A"
+
+#: edd_templates/shortcode-subscription-receipt.php:58
+#: edd_templates/shortcode-subscriptions.php:59
+msgid "Trialling Until:"
+msgstr "Trialling Until:"
+
+#: edd_templates/shortcode-subscription-receipt.php:66
+#: edd_templates/shortcode-subscriptions.php:67
+msgid "Until cancelled"
+msgstr "Until cancelled"
+
+#: edd_templates/shortcode-subscription-update.php:31
+msgid "Back"
+msgstr "Back"
+
+#: edd_templates/shortcode-subscription-update.php:32
+#, php-format
+msgid "Update payment method for <em>%s</em>"
+msgstr "Update payment method for <em>%s</em>"
+
+#: edd_templates/shortcode-subscription-update.php:49
+#: edd_templates/shortcode-subscriptions.php:73
+msgid "Update Payment Method"
+msgstr "Update Payment Method"
+
+#: edd_templates/shortcode-subscription-update.php:52
+msgid "Invalid Subscription ID"
+msgstr "Invalid Subscription ID"
+
+#: edd_templates/shortcode-subscriptions.php:18
+msgid "<strong>Success:</strong> Subscription payment method updated"
+msgstr "<strong>Success:</strong> Subscription payment method updated"
+
+#: edd_templates/shortcode-subscriptions.php:70
+msgid "View Invoice"
+msgstr "View Invoice"
+
+#: edd_templates/shortcode-subscriptions.php:85
+msgid "Reactivate"
+msgstr "Reactivate"
+
+#: edd_templates/shortcode-subscriptions.php:98
+msgid "You have not made any subscription purchases."
+msgstr "You have not made any subscription purchases."
+
+#: edd_templates/wish-list-create.php:19
+msgid "Description:"
+msgstr "Description:"
+
+#: edd_templates/wish-list-create.php:24 edd_templates/wish-list-edit.php:29
+msgid "Private - only viewable by you"
+msgstr "Private - only viewable by you"
+
+#: edd_templates/wish-list-create.php:25 edd_templates/wish-list-edit.php:30
+msgid "Public - viewable by anyone"
+msgstr "Public - viewable by anyone"
+
+#: edd_templates/wish-list-create.php:29
+msgid "Create"
+msgstr "Create"
+
+#: edd_templates/wish-list-edit.php:15
+msgid "Settings"
+msgstr "Settings"
+
+#: edd_templates/wish-list-edit.php:20
+msgid "Title"
+msgstr "Title"
+
+#: edd_templates/wish-list-edit.php:24
+msgid "Description"
+msgstr "Description"
+
+#: edd_templates/wish-list-email-share.php:9
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+#: edd_templates/wish-list-email-share.php:13
+msgid "Your Email Address"
+msgstr "Your Email Address"
+
+#: edd_templates/wish-list-email-share.php:14
+msgid "Your Email address"
+msgstr "Your Email address"
+
+#: edd_templates/wish-list-email-share.php:14
+msgid "Please enter your email address"
+msgstr "Please enter your email address"
+
+#: edd_templates/wish-list-email-share.php:14
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
+#: edd_templates/wish-list-email-share.php:18
+msgid "Friend's Email Address"
+msgstr "Friend's Email Address"
+
+#: edd_templates/wish-list-email-share.php:19
+msgid "To send to multiple email addresses, separate each email with a comma"
+msgstr "To send to multiple email addresses, separate each email with a comma"
+
+#: edd_templates/wish-list-email-share.php:20
+msgid "Friend's Email address"
+msgstr "Friend's Email address"
+
+#: edd_templates/wish-list-email-share.php:20
+msgid "Please enter one or more email addresses"
+msgstr "Please enter one or more email addresses"
+
+#: edd_templates/wish-list-email-share.php:20
+msgid "You must enter a valid email, or comma separate multiple emails"
+msgstr "You must enter a valid email, or comma separate multiple emails"
+
+#: edd_templates/wish-list-email-share.php:24
+msgid "Your Message"
+msgstr "Your Message"
+
+#: edd_templates/wish-list-email-share.php:25
+msgid "Optional"
+msgstr "Optional"
+
+#: edd_templates/wish-list-view.php:61
+msgid "Share"
+msgstr "Share"
+
+#: edd_templates/wish-lists.php:17
+#, php-format
+msgid "Private %s"
+msgstr "Private %s"
+
+#: edd_templates/wish-lists.php:39
+#, php-format
+msgid "Public %s"
+msgstr "Public %s"
+
+#: fes-vendor-list.php:126
+msgid "Popular"
+msgstr "Popular"
+
+#: fes-vendor-list.php:128
+msgid "Recent"
+msgstr "Recent"
+
+#: fes-vendor-list.php:130
+msgid "Older"
+msgstr "Older"
+
+#: fes-vendor-list.php:132
+msgid "Title (A - Z)"
+msgstr "Title (A - Z)"
+
+#: fes-vendor-list.php:134
+msgid "Title (Z - A)"
+msgstr "Title (Z - A)"
+
+#: fes-vendor-list.php:314
+msgid "No products found"
+msgstr "No products found"
+
+#: fes-vendor-list.php:358
+msgid "Nothing Found!"
+msgstr "Nothing Found!"
+
+#: fes-vendor-list.php:359
+msgid "Please Install Frontend Submission"
+msgstr "Please Install Frontend Submission"
+
+#: fes_templates/frontend-dashboard.php:22
+msgid "Earnings"
+msgstr "Earnings"
+
+#: fes_templates/frontend-dashboard.php:31
+msgid "Paid Commisions"
+msgstr "Paid Commisions"
+
+#: fes_templates/frontend-dashboard.php:42
+#: fes_templates/frontend-products.php:16
+#: includes/product-bottom-buttons.php:43
+#: includes/products/information-sales.php:28
+#: includes/products/information-sales.php:40
+msgid "Sales"
+msgstr "Sales"
+
+#: fes_templates/frontend-dashboard.php:43
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: fes_templates/frontend-dashboard.php:80
+msgid "Conversion Rate"
+msgstr "Conversion Rate"
+
+#: fes_templates/frontend-dashboard.php:89
+msgid "%"
+msgstr "%"
+
+#: fes_templates/frontend-dashboard.php:102
+msgid "Latest Announcement"
+msgstr "Latest Announcement"
+
+#: fes_templates/frontend-dashboard.php:115
+msgid "Author"
+msgstr "Author"
+
+#: fes_templates/frontend-orders.php:14
+msgid "Orders"
+msgstr "Orders"
+
+#: fes_templates/frontend-orders.php:48
+msgid "No orders found"
+msgstr "No orders found"
+
+#: fes_templates/frontend-products.php:24
+#, php-format
+msgctxt "FES lowercase plural setting for download"
+msgid "No %s found"
+msgstr "No %s found"
+
+#: functions.php:131
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: functions.php:132
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: functions.php:133
+msgid "Bottom Menu"
+msgstr "Bottom Menu"
+
+#: functions.php:134
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: functions.php:135
+msgid "Account Menu"
+msgstr "Account Menu"
+
+#: functions.php:173
+msgid "Light gray"
+msgstr "Light gray"
+
+#: functions.php:178
+msgid "Medium gray"
+msgstr "Medium gray"
+
+#: functions.php:183
+msgid "Dark gray"
+msgstr "Dark gray"
+
+#: functions.php:189
+msgid "Purple"
+msgstr "Purple"
+
+#: functions.php:195
+msgid "Dark Blue"
+msgstr "Dark Blue"
+
+#: functions.php:201
+msgid "Red"
+msgstr "Red"
+
+#: functions.php:207
+msgid "Yellow"
+msgstr "Yellow"
+
+#: functions.php:213
+msgid "Green"
+msgstr "Green"
+
+#: functions.php:219
+msgid "White"
+msgstr "White"
+
+#: functions.php:227
+msgid "Small"
+msgstr "Small"
+
+#: functions.php:232
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:237
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:242
+msgid "Huge"
+msgstr "Huge"
+
+#: includes/cart-header-main.php:28
+#: includes/header/header-elements/header-cart.php:34
+msgid "Items"
+msgstr "Items"
+
+#: includes/header/header-elements/header-account.php:66
+msgid "Balance"
+msgstr "Balance"
+
+#: includes/header/header-elements/header-account.php:70
+#: includes/header/header-elements/header-account.php:109
+#: includes/top-header-cart.php:33
+msgid "Logout"
+msgstr "Logout"
+
+#: includes/header/header-elements/header-account.php:124
+#: includes/header/header-elements/header-login.php:61
+msgid "New here? Create an account!"
+msgstr "New here? Create an account!"
+
+#: includes/header/header-elements/header-logo.php:39
+#: includes/header/header-sidebar.php:39 includes/mobile-header.php:28
+#: templates/center-logo-header.php:55 templates/center-logo-header.php:57
+#: templates/main-header.php:42 templates/main-header.php:44
+#: templates/main-header.php:50 templates/sidebar-header.php:27
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/header/header-sidebar.php:68
+msgid "Icon"
+msgstr "Icon"
+
+#: includes/photo-template-bottom-part.php:326
+msgid "Keywords"
+msgstr "Keywords"
+
+#: includes/product-bottom-buttons.php:23
+msgid " Sales"
+msgstr " Sales"
+
+#: includes/product-bottom-buttons.php:23
+msgid " Sale"
+msgstr " Sale"
+
+#: includes/product-bottom-buttons.php:75 includes/product-meta.php:81
+#: includes/products/information-sales.php:26
+#: includes/products/information-sales.php:46
+msgid "Downloads"
+msgstr "Downloads"
+
+#: includes/product-bottom-buttons.php:108
+msgid "Share Now! "
+msgstr "Share Now! "
+
+#: includes/product-hover-content-bottom.php:14
+#: includes/product-hover-content-top.php:14
+msgid "Add to cart"
+msgstr "Add to cart"
+
+#: includes/product-hover-content-bottom.php:26
+#: includes/product-hover-content-top.php:26
+msgid "Add To Cart"
+msgstr "Add To Cart"
+
+#: includes/products/information-category.php:5
+msgctxt ""
+msgid "  "
+msgstr "  "
+
+#: includes/products/information-category.php:10
+msgid "Categories"
+msgstr "Categories"
+
+#: includes/products/information-compatible.php:11
+msgid "Compatible With"
+msgstr "Compatible With"
+
+#: includes/products/information-documentation.php:11
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/products/information-fileincluded.php:9
+msgid "File Included"
+msgstr "File Included"
+
+#: includes/products/information-filesize.php:10
+msgid "File Size"
+msgstr "File Size"
+
+#: includes/products/information-released.php:15
+msgid "Released"
+msgstr "Released"
+
+#: includes/products/information-updated.php:14
+msgid "Last Updated"
+msgstr "Last Updated"
+
+#: includes/sidemenu-collapsed-search.php:10
+#: searchform-download-sidebar-header.php:16
+#: searchform-download-style-two.php:17 searchform-download.php:14
+#: searchform-download.php:27 searchform-download.php:47
+msgid "Type and Hit Enter"
+msgstr "Type and Hit Enter"
+
+#: includes/single-product-full-layout.php:22
+#: includes/single-product-layout-prime.php:138
+#: includes/single-product-layout.php:37
+msgid "Tags:"
+msgstr "Tags:"
+
+#: index.php:76
+msgid "Blog"
+msgstr "Blog"
+
+#: library/breadcrumb.php:30
+msgid "Our Blog"
+msgstr "Our Blog"
+
+#: library/breadcrumb.php:31 library/breadcrumb.php:33
+msgid "Home"
+msgstr "Home"
+
+#: library/breadcrumb.php:71
+msgid "<span class=\"active\">Category ></span> "
+msgstr "<span class=\"active\">Category ></span> "
+
+#: library/breadcrumb.php:73
+msgid "Tag: "
+msgstr "Tag: "
+
+#: library/breadcrumb.php:86
+msgid "Error 404"
+msgstr "Error 404"
+
+#: library/edd.php:136
+msgid "Add Mailing Address"
+msgstr "Add Mailing Address"
+
+#: library/edd.php:137
+msgid "add a mailing address for footer"
+msgstr "add a mailing address for footer"
+
+#: library/edd.php:144
+msgid "Add product Cover Image"
+msgstr "Add product Cover Image"
+
+#: library/edd.php:145
+msgid "upload product cover image"
+msgstr "upload product cover image"
+
+#: library/edd.php:297
+msgid "A list of download links for each download purchased"
+msgstr "A list of download links for each download purchased"
+
+#: library/edd.php:351
+msgid "x"
+msgstr "x"
+
+#: library/edd.php:411
+msgid "No files."
+msgstr "No files."
+
+#: library/mayosis-post-tags.php:6 library/mayosis-theme-options.php:6
+msgid ", "
+msgstr ", "
+
+#: library/mayosis_comment.php:11
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: library/mayosis_comment.php:26
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: library/mayosis_comment.php:27
+msgid "at"
+msgstr "at"
+
+#: library/mayosis_comment.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: library/theme-functions.php:115 library/theme-functions.php:130
+msgid "All"
+msgstr "All"
+
+#: library/widget.php:9
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: library/widget.php:11
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Add widgets here to appear in your sidebar."
+
+#: library/widget.php:23
+msgid "Page Sidebar"
+msgstr "Page Sidebar"
+
+#: library/widget.php:24
+msgid "Main Pages Sidebar."
+msgstr "Main Pages Sidebar."
+
+#: library/widget.php:33
+msgid "Product Archive Sidebar"
+msgstr "Product Archive Sidebar"
+
+#: library/widget.php:35
+msgid "Add widgets here to appear in your product archive sidebar."
+msgstr "Add widgets here to appear in your product archive sidebar."
+
+#: library/widget.php:47
+msgid "Single Post Sidebar"
+msgstr "Single Post Sidebar"
+
+#: library/widget.php:48
+msgid "This is For Single Post Sidebar"
+msgstr "This is For Single Post Sidebar"
+
+#: library/widget.php:61
+msgid "Single Product Sidebar"
+msgstr "Single Product Sidebar"
+
+#: library/widget.php:62
+msgid "This is For Single Product Sidebar"
+msgstr "This is For Single Product Sidebar"
+
+#: library/widget.php:73
+msgid "Media Template Product Sidebar"
+msgstr "Media Template Product Sidebar"
+
+#: library/widget.php:74
+msgid "This is For Media Template Sidebar (work on style Two)"
+msgstr "This is For Media Template Sidebar (work on style Two)"
+
+#: library/widget.php:85
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: library/widget.php:86
+msgid "This is For Hamburger Sidebar"
+msgstr "This is For Hamburger Sidebar"
+
+#: search.php:17
+msgid "Search Result"
+msgstr "Search Result"
+
+#: search.php:19
+msgid "Search Results for"
+msgstr "Search Results for"
+
+#: searchform.php:10
+msgid "Search"
+msgstr "Search"
+
+#: sitemap.php:55
+msgid "Pages"
+msgstr "Pages"
+
+#: sitemap.php:74
+msgid "Posts By Blog Category"
+msgstr "Posts By Blog Category"
+
+#: sitemap.php:75
+msgid "Category:"
+msgstr "Category:"
+
+#: sitemap.php:108
+msgid "Products Categories"
+msgstr "Products Categories"
+
+#: taxonomy-artist.php:37
+msgid "Artist&#39;s Biography"
+msgstr "Artist&#39;s Biography"
+
+#: templates/user-dashboard.php:17 templates/user-dashboard.php:50
+#: user-dashboard-template.php:63
+msgid "Profile"
+msgstr "Profile"
+
+#: templates/user-dashboard.php:18 templates/user-dashboard.php:51
+#: user-dashboard-template.php:69
+msgid "Purchase History"
+msgstr "Purchase History"
+
+#: templates/user-dashboard.php:19 templates/user-dashboard.php:52
+#: user-dashboard-template.php:76
+msgid "Download History"
+msgstr "Download History"
+
+#: templates/user-dashboard.php:20 templates/user-dashboard.php:53
+#: user-dashboard-template.php:90
+msgid "Followed Items"
+msgstr "Followed Items"
+
+#: templates/user-dashboard.php:27 templates/user-dashboard.php:60
+#: user-dashboard-template.php:100
+msgid "Access Pass"
+msgstr "Access Pass"
+
+#: templates/user-dashboard.php:34 templates/user-dashboard.php:67
+msgid "Become a Seller"
+msgstr "Become a Seller"
+
+#: user-dashboard-template.php:83
+msgid "Discount"
+msgstr "Discount"
+
+#. Theme Name of the plugin/theme
+msgid "Mayosis"
+msgstr "Mayosis"
+
+#. Theme URI of the plugin/theme
+msgid "https://teconce.com"
+msgstr "https://teconce.com"
+
+#. Description of the plugin/theme
+msgid "Wordpress Theme With Easy Digital Download & Awesome Options."
+msgstr "Wordpress Theme With Easy Digital Download & Awesome Options."
+
+#. Author of the plugin/theme
+msgid "Teconce"
+msgstr "Teconce"
+
+#. Author URI of the plugin/theme
+msgid "https://teconce.com/contact/"
+msgstr "https://teconce.com/contact/"
+
+#. Template Name of the plugin/theme
+msgid "Artists List"
+msgstr "Artists List"
+
+#. Template Name of the plugin/theme
+msgid "Edd Checkout Template"
+msgstr "Edd Checkout Template"
+
+#. Template Name of the plugin/theme
+msgid "Custom Product Template"
+msgstr "Custom Product Template"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#. Template Name of the plugin/theme
+msgid "Extended Dashboard(User & Vendor)"
+msgstr "Extended Dashboard(User & Vendor)"
+
+#. Template Name of the plugin/theme
+msgid "Narrow Content"
+msgstr "Narrow Content"
+
+#. Template Name of the plugin/theme
+msgid "Blog Authors List"
+msgstr "Blog Authors List"
+
+#. Template Name of the plugin/theme
+msgid "Prime Template"
+msgstr "Prime Template"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Post"
+msgstr "Full Width Post"
+
+#. Template Name of the plugin/theme
+msgid "FES VENDOR LIST"
+msgstr "FES VENDOR LIST"
+
+#. Template Name of the plugin/theme
+msgid "Without Header & Footer"
+msgstr "Without Header & Footer"
+
+#. Template Name of the plugin/theme
+msgid "AffliateWp Dashboard Template"
+msgstr "AffliateWp Dashboard Template"
+
+#. Template Name of the plugin/theme
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#. Template Name of the plugin/theme
+msgid "Narrow Page Template"
+msgstr "Narrow Page Template"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Template"
+msgstr "Full Width Template"
+
+#. Template Name of the plugin/theme
+msgid "Vendor Archive"
+msgstr "Vendor Archive"
+
+#. Template Name of the plugin/theme
+msgid "Audio Template"
+msgstr "Audio Template"
+
+#. Template Name of the plugin/theme
+msgid "Template MetaData Filter"
+msgstr "Template MetaData Filter"
+
+#. Template Name of the plugin/theme
+msgid "Media Template"
+msgstr "Media Template"
+
+#. Template Name of the plugin/theme
+msgid "EDD User Dashboard"
+msgstr "EDD User Dashboard"

@@ -1,0 +1,157 @@
+/**
+ * 12. Responsive
+ */
+@media only screen and (max-width:1200px){
+
+  .mysf-metabox{
+
+    .mysf-field{
+
+      .mysf-title{
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      .mysf-fieldset{
+        float: none;
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:782px){
+
+  .mysf-header-inner{
+    text-align: center;
+
+    h1{
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+
+  .mysf-form-result{
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .mysf-search,
+  .mysf-header-right,
+  .mysf-header-left{
+    width: 100%;
+  }
+
+  .mysf-search{
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .mysf-footer{
+    text-align: center;
+  }
+
+  .mysf-buttons{
+    float: none;
+  }
+
+  .mysf-copyright{
+    float: none;
+    margin-top: 10px;
+  }
+
+  .mysf-nav,
+  .mysf-expand-all,
+  .mysf-reset-section,
+  .mysf-nav-background{
+    display: none !important;
+  }
+
+  .mysf-nav-normal + .mysf-content{
+    margin-left: 0;
+  }
+
+  .mysf-section-title,
+  .mysf-section{
+    display: block !important;
+  }
+
+  .mysf-field{
+
+    .mysf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .mysf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .mysf-field-color{
+
+    .button.wp-picker-clear{
+      padding: 0 8px;
+      line-height: 2.14285714;
+      min-height: 32px;
+    }
+  }
+
+  .mysf-profile-options,
+  .mysf-taxonomy-edit-fields{
+
+    > .mysf-field{
+
+      > .mysf-title{
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      > .mysf-fieldset{
+        float: none;
+        width: 100%;
+      }
+    }
+  }
+
+  .mysf-nav-menu-options{
+
+    > .mysf-fields{
+      margin-left: -10px;
+      margin-right: -10px;
+
+      > .mysf-field{
+        padding: 10px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 782px) {
+
+  .mysf-modal{
+
+    .mysf-modal-inner{
+      width: 90%;
+    }
+  }
+}
+
+@media only screen and (max-height: 750px) {
+
+  .mysf-modal{
+
+    .mysf-modal-inner{
+      height: auto;
+    }
+
+    .mysf-modal-content{
+      height: calc(100vh - 200px);
+    }
+  }
+}
